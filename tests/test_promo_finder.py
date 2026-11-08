@@ -16,11 +16,12 @@ from promo_finder.screenplay import load_show
 from promo_finder.verify import check
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA = os.path.join(ROOT, "data")
-if not os.path.isdir(DATA) or not [f for f in os.listdir(DATA) if f.endswith(".txt")]:
-    # The input pack is Kuku's confidential content and is not in the public repository.
-    raise unittest.SkipTest("input pack not found: put the 50 episode .txt files in data/ to run the tests")
-SHOW = load_show(DATA)
+DATA = os.environ.get("PROMO_TEST_DATA", os.path.join(ROOT, "data"))
+# The input pack is Kuku's confidential content and is not in the public repository. Tests that
+# use it are skipped without it; every other test runs anywhere.
+HAVE_DATA = os.path.isdir(DATA) and any(f.endswith(".txt") for f in os.listdir(DATA))
+SHOW = load_show(DATA) if HAVE_DATA else {}
+needs_pack = unittest.skipUnless(HAVE_DATA, "needs the 50-episode input pack in data/")
 
 
 def cand(segs, hook=None, cliff=None, cid="t"):
@@ -31,6 +32,7 @@ def cand(segs, hook=None, cliff=None, cid="t"):
 
 
 class TestParsing(unittest.TestCase):
+    @needs_pack
     def test_full_pack_parsed(self):
         self.assertEqual(sorted(SHOW), list(range(1, 51)))
         raw = 0
@@ -39,11 +41,13 @@ class TestParsing(unittest.TestCase):
                 raw += fh.read().count("Start: (")
         self.assertEqual(sum(len(e.blocks) for e in SHOW.values()), raw, "every source block must be parsed")
 
+    @needs_pack
     def test_blocks_sorted_and_ids_stable(self):
         for ep in SHOW.values():
             self.assertEqual([b.id for b in ep.blocks], list(range(len(ep.blocks))))
             self.assertEqual([b.start for b in ep.blocks], sorted(b.start for b in ep.blocks))
 
+    @needs_pack
     def test_known_line(self):
         ep1 = SHOW[1]
         line = next(b for b in ep1.blocks if "You should turn around" in b.text)
@@ -58,11 +62,13 @@ class TestParsing(unittest.TestCase):
 class TestValidationCatchesBadSelections(unittest.TestCase):
     """Deterministic QC: incorrect timestamps, durations, hook/cliffhanger placement."""
 
+    @needs_pack
     def test_valid_reference_clip(self):
         c = candidate_from_times(SHOW, "ok", [(3, "00:58.30", "01:25.50"), (3, "01:59.80", "02:25.75")])
         self.assertEqual(c.errors, [])
         self.assertAlmostEqual(c.total_duration, 53.15)
 
+    @needs_pack
     def test_nonexistent_block_ids(self):
         c = cand([(3, 10, 9999)])
         self.assertTrue(any("outside episode" in e for e in c.errors))
@@ -71,32 +77,38 @@ class TestValidationCatchesBadSelections(unittest.TestCase):
         c = cand([(99, 0, 5)])
         self.assertTrue(any("does not exist" in e for e in c.errors))
 
+    @needs_pack
     def test_timestamp_not_on_a_block_boundary(self):
         with self.assertRaises(ValueError):
             segment_from_times(SHOW, 3, "00:58.31", "01:25.50")
 
+    @needs_pack
     def test_too_short(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "00:19.40")
         c = cand([(1, s.from_block, s.to_block)])
         self.assertTrue(any("below 20" in e for e in c.errors))
 
+    @needs_pack
     def test_too_long(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "01:30.80")
         c = cand([(1, s.from_block, s.to_block)])
         self.assertTrue(any("exceeds 60" in e for e in c.errors))
 
+    @needs_pack
     def test_hook_outside_first_3_seconds(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "00:56.90")
         late = next(b.id for b in SHOW[1].blocks if b.start >= 30)
         c = cand([(1, s.from_block, s.to_block)], hook=(1, late))
         self.assertTrue(any("outside the first 3s" in e for e in c.errors))
 
+    @needs_pack
     def test_clip_continues_after_cliffhanger(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "00:56.90")
         early = next(b.id for b in SHOW[1].blocks if "Not anymore" in b.text)
         c = cand([(1, s.from_block, s.to_block)], cliff=(1, early))
         self.assertTrue(any("past the cliffhanger" in e for e in c.errors))
 
+    @needs_pack
     def test_segments_out_of_order(self):
         a = segment_from_times(SHOW, 3, "01:59.80", "02:25.75")
         b = segment_from_times(SHOW, 3, "00:58.30", "01:25.50")
@@ -104,6 +116,7 @@ class TestValidationCatchesBadSelections(unittest.TestCase):
                  cliff=(3, b.to_block))
         self.assertTrue(any("chronological" in e for e in c.errors))
 
+    @needs_pack
     def test_cut_mid_dialogue(self):
         # Ep16: ACTION #40 runs 48.0-50.0 while the line "Harrington! Gerald Harrington paid us!" (#43)
         # starts at 49.8. A range ending at #42 therefore ends at 50.0, inside that line.
@@ -118,6 +131,7 @@ class TestCriticDecision(unittest.TestCase):
     def _ok(self):
         return candidate_from_times(SHOW, "ok", [(3, "00:58.30", "01:25.50"), (3, "01:59.80", "02:25.75")])
 
+    @needs_pack
     def test_flag_with_weak_matching_score_rejects(self):
         weak = {"weak_hook": "hook_strength", "missing_context": "standalone_clarity",
                 "predictable_ending": "cliffhanger_strength", "low_curiosity": "emotional_intensity",
@@ -129,6 +143,7 @@ class TestCriticDecision(unittest.TestCase):
             c = apply_critique(self._ok(), {"scores": scores, "flags": {flag: True}}, policy="strict")
             self.assertTrue(any(r.startswith("critic:") for r in c.rejection_reasons), flag)
 
+    @needs_pack
     def test_flag_with_good_matching_score_is_only_a_warning(self):
         for flag in ("weak_hook", "missing_context", "predictable_ending", "low_curiosity", "misleading_edit"):
             c = apply_critique(self._ok(), {"scores": {"hook_strength": 22, "standalone_clarity": 18,
@@ -137,12 +152,14 @@ class TestCriticDecision(unittest.TestCase):
             self.assertEqual(c.rejection_reasons, [], flag)
             self.assertTrue(c.critique["warnings"], flag)
 
+    @needs_pack
     def test_low_scores_reject_without_flags(self):
         c = apply_critique(self._ok(), {"scores": {"hook_strength": 8, "standalone_clarity": 18,
                                                    "cliffhanger_strength": 22, "emotional_intensity": 13,
                                                    "narrative_coherence": 9}, "flags": {}})
         self.assertTrue(any("hook score" in r for r in c.rejection_reasons))
 
+    @needs_pack
     def test_scores_clamped_and_summed(self):
         c = apply_critique(self._ok(), {"scores": {"hook_strength": 99, "standalone_clarity": "18",
                                                    "cliffhanger_strength": 22, "emotional_intensity": 13,
@@ -203,6 +220,7 @@ class TestPipeline(unittest.TestCase):
     def tearDown(self):
         shutil.rmtree(self.tmp, ignore_errors=True)
 
+    @needs_pack
     def test_llm_path_with_repair_and_cross_episode(self):
         out = os.path.join(self.tmp, "run")
         run = Run(DATA, out, FakeLLM("fake-model", cache_dir=os.path.join(self.tmp, "cache")),
@@ -217,6 +235,7 @@ class TestPipeline(unittest.TestCase):
         self.assertTrue(os.path.exists(os.path.join(out, "raw", "scout_ep003.json")))
         self.assertTrue(os.path.exists(os.path.join(out, "report.md")))
 
+    @needs_pack
     def test_heuristic_full_pack_verifies(self):
         out = os.path.join(self.tmp, "h")
         doc = Run(DATA, out, None, reference=None, probes=None, log=lambda m: None).execute()
@@ -227,6 +246,7 @@ class TestPipeline(unittest.TestCase):
 
 
 class TestVerifierCatchesTampering(unittest.TestCase):
+    @needs_pack
     def test_tampered_timestamp(self):
         doc = Run(DATA, tempfile.mkdtemp(), None, episodes=[1, 2, 3], reference=None, probes=None,
                   log=lambda m: None).execute()
@@ -428,6 +448,7 @@ class BatchFakeLLM(LLM):
 
 
 class TestBatchMode(unittest.TestCase):
+    @needs_pack
     def test_full_pack_fits_free_quota(self):
         tmp = tempfile.mkdtemp()
         try:
@@ -476,6 +497,7 @@ class TestReviewFlags(unittest.TestCase):
                       BlockRef(18, cliff_block), cliff_desc, "")
         return validate(SHOW, c)
 
+    @needs_pack
     def test_cliffhanger_shot_after_cut_is_not_on_screen(self):
         c = self._p010()
         self.assertTrue(any("not on screen" in e for e in c.errors), c.errors)
@@ -484,12 +506,14 @@ class TestReviewFlags(unittest.TestCase):
         self.assertEqual(r["proposed_fixes"]["cliffhanger"]["block"], 25)
         self.assertIn("another way", r["proposed_fixes"]["cliffhanger"]["description"])
 
+    @needs_pack
     def test_displayed_times_never_exceed_the_cut(self):
         from promo_finder.candidates import timeline
         c = self._p010(cliff_block=25, cliff_desc="Then we go another way.")
         self.assertEqual(c.errors, [])
         self.assertLessEqual(max(t[1] for t in timeline(SHOW, c)), c.total_duration)
 
+    @needs_pack
     def test_hook_absent_from_clip(self):
         s = segment_from_times(SHOW, 3, "00:58.30", "01:25.50")
         c = validate(SHOW, Candidate("x", "t", [Segment(3, s.from_block, s.to_block)], BlockRef(3, 0), "", BlockRef(3, s.to_block), "", ""))
@@ -497,6 +521,7 @@ class TestReviewFlags(unittest.TestCase):
         apply_critique(c, _crit())
         self.assertTrue(any(f["code"] == "hook_not_on_screen" for f in review(SHOW, c)["flags"]))
 
+    @needs_pack
     def test_hook_after_three_seconds(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "00:56.90")
         late = next(b.id for b in SHOW[1].blocks if b.start >= 20 and b.kind == "dialogue")
@@ -508,6 +533,7 @@ class TestReviewFlags(unittest.TestCase):
         self.assertTrue(any(f["code"] == "hook_late" and f["action"] == "reject" for f in r["flags"]))
         self.assertEqual(r["status"], "not_recommended")
 
+    @needs_pack
     def test_unsupported_cliffhanger_description(self):
         c = self._p010(cliff_block=25, cliff_desc="The ceiling beams collapse and bury the chapel in flames")
         apply_critique(c, _crit())
@@ -515,12 +541,14 @@ class TestReviewFlags(unittest.TestCase):
         f = next(f for f in flags if f["code"] == "cliffhanger_description_unsupported")
         self.assertEqual((f["kind"], f["action"]), ("approximate", "inspect"))
 
+    @needs_pack
     def test_supported_description_not_flagged(self):
         c = self._p010(cliff_block=25, cliff_desc="Trapped by the fire, Juliana cries they cannot get through; Alexander: another way")
         apply_critique(c, _crit())
         self.assertFalse(any(f["code"].endswith("description_unsupported") for f in review(SHOW, c)["flags"]))
         self.assertGreaterEqual(description_support("cannot get through another way", ['"We cannot get through!"']), 0.5)
 
+    @needs_pack
     def test_zero_coherence_goes_to_human_review_not_silent_pass(self):
         c = self._p010(cliff_block=25, cliff_desc="Then we go another way.")
         apply_critique(c, _crit(narrative_coherence=0))
@@ -537,6 +565,7 @@ class TestReviewFlags(unittest.TestCase):
         self.assertEqual(c.scores["narrative_coherence"], 8)
         self.assertEqual(c.critique["missing_scores"], [])
 
+    @needs_pack
     def test_missing_score_flagged_not_used_to_reject(self):
         c = self._p010(cliff_block=25, cliff_desc="Then we go another way.")
         crit = _crit()
@@ -545,6 +574,7 @@ class TestReviewFlags(unittest.TestCase):
         self.assertFalse(any("hook score" in r for r in c.rejection_reasons))
         self.assertTrue(any(f["code"] == "critic_score_missing" for f in review(SHOW, c)["flags"]))
 
+    @needs_pack
     def test_scout_critic_disagreement(self):
         c = self._p010(cliff_block=25, cliff_desc="Then we go another way.")
         c.self_scores = {"hook_strength": 25, "standalone_clarity": 20, "cliffhanger_strength": 25,
@@ -553,6 +583,7 @@ class TestReviewFlags(unittest.TestCase):
         f = next(f for f in review(SHOW, c)["flags"] if f["code"] == "scout_critic_disagreement")
         self.assertEqual(f["kind"], "subjective")
 
+    @needs_pack
     def test_cross_episode_story_order(self):
         a = segment_from_times(SHOW, 27, "00:17.20", "00:31.40")
         b = segment_from_times(SHOW, 26, "01:30.20", "01:55.50")
@@ -566,6 +597,7 @@ class TestReviewFlags(unittest.TestCase):
 
 
 class TestCountsAndAudit(unittest.TestCase):
+    @needs_pack
     def test_live_calls_vs_cache_hits(self):
         tmp = tempfile.mkdtemp()
         try:
@@ -586,6 +618,7 @@ class TestCountsAndAudit(unittest.TestCase):
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
+    @needs_pack
     def test_audit_leaves_original_untouched_and_verifies(self):
         import hashlib
         from promo_finder.audit import run_audit
@@ -614,6 +647,7 @@ from promo_finder.repair import trim_to_rules  # noqa: E402
 
 
 class TestDeterministicRepair(unittest.TestCase):
+    @needs_pack
     def test_trims_clip_that_runs_past_its_cliffhanger(self):
         # Same failure as the missed ring scene (ep 26): the clip runs on more than 4 s after the
         # declared cliffhanger ("Do not move!"), so validation fails; trimming the end fixes it.
@@ -629,6 +663,7 @@ class TestDeterministicRepair(unittest.TestCase):
         self.assertEqual(t.cliffhanger.block, cliff)     # the model's cliffhanger choice is kept
         self.assertTrue(any("no model call" in w for w in t.warnings))
 
+    @needs_pack
     def test_trims_start_so_hook_is_in_first_three_seconds(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "00:56.90")
         hook = next(b.id for b in SHOW[1].blocks if "Why are you holding her hand" in b.text)
@@ -640,6 +675,7 @@ class TestDeterministicRepair(unittest.TestCase):
         self.assertLessEqual(t.hook_offset, 3.0)
         self.assertEqual(t.hook.block, hook)            # the model's hook choice is kept
 
+    @needs_pack
     def test_retargets_offscreen_cliffhanger_to_last_beat(self):
         c = validate(SHOW, Candidate("P010", "t", [Segment(18, 2, 26)], BlockRef(18, 2), "", BlockRef(18, 26),
                                      "beams collapse", ""))
@@ -648,6 +684,7 @@ class TestDeterministicRepair(unittest.TestCase):
         self.assertEqual(t.cliffhanger.block, 25)
         self.assertIn("another way", t.cliffhanger_description)
 
+    @needs_pack
     def test_gives_up_when_rules_cannot_be_met_by_trimming(self):
         s = segment_from_times(SHOW, 1, "00:11.30", "01:30.80")     # 79.5 s, hook at start, cliffhanger at end
         c = validate(SHOW, Candidate("x", "t", [Segment(1, s.from_block, s.to_block)], BlockRef(1, s.from_block), "",
@@ -660,6 +697,7 @@ class TestBorderlinePolicy(unittest.TestCase):
     def _c(self):
         return candidate_from_times(SHOW, "ok", [(3, "00:58.30", "01:25.50"), (3, "01:59.80", "02:25.75")])
 
+    @needs_pack
     def test_one_weak_dimension_on_good_clip_goes_to_review(self):
         c = apply_critique(self._c(), _crit(hook_strength=12, standalone_clarity=18, cliffhanger_strength=23,
                                              emotional_intensity=15, narrative_coherence=10))
@@ -667,27 +705,32 @@ class TestBorderlinePolicy(unittest.TestCase):
         self.assertTrue(c.borderline_reasons)
         self.assertEqual(review(SHOW, c)["status"], "needs_review")
 
+    @needs_pack
     def test_strict_policy_still_rejects(self):
         c = apply_critique(self._c(), _crit(hook_strength=12, standalone_clarity=18, cliffhanger_strength=23,
                                              emotional_intensity=15, narrative_coherence=10), policy="strict")
         self.assertTrue(c.rejection_reasons)
 
+    @needs_pack
     def test_two_weak_dimensions_reject(self):
         c = apply_critique(self._c(), _crit(hook_strength=12, cliffhanger_strength=12, standalone_clarity=20,
                                              emotional_intensity=15, narrative_coherence=10))
         self.assertTrue(c.rejection_reasons)
 
+    @needs_pack
     def test_very_weak_hook_rejects(self):
         c = apply_critique(self._c(), _crit(hook_strength=5, standalone_clarity=20, cliffhanger_strength=25,
                                              emotional_intensity=15, narrative_coherence=10))
         self.assertTrue(c.rejection_reasons)
 
+    @needs_pack
     def test_weak_dimension_on_mediocre_clip_rejects(self):
         c = apply_critique(self._c(), _crit(hook_strength=12, standalone_clarity=14, cliffhanger_strength=16,
                                              emotional_intensity=10, narrative_coherence=8))
         self.assertTrue(c.rejection_reasons)
         self.assertFalse(c.borderline_reasons)
 
+    @needs_pack
     def test_misleading_edit_goes_to_review_not_auto_pass(self):
         c = apply_critique(self._c(), {"scores": {"hook_strength": 20, "standalone_clarity": 15,
                                                   "cliffhanger_strength": 23, "emotional_intensity": 15,
@@ -697,6 +740,7 @@ class TestBorderlinePolicy(unittest.TestCase):
 
 
 class TestReviewReuse(unittest.TestCase):
+    @needs_pack
     def test_reuses_only_identical_block_sequences(self):
         from promo_finder.memo import CritiqueMemo
         tmp = tempfile.mkdtemp()
@@ -717,6 +761,7 @@ class TestReviewReuse(unittest.TestCase):
 
 
 class TestGapPassAndCompare(unittest.TestCase):
+    @needs_pack
     def test_gap_pass_and_compare(self):
         from promo_finder.compare import compare
         tmp = tempfile.mkdtemp()
@@ -737,6 +782,7 @@ class TestGapPassAndCompare(unittest.TestCase):
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
+    @needs_pack
     def test_verifier_requires_clean_promos_before_borderline(self):
         doc = Run(DATA, tempfile.mkdtemp(), None, episodes=[1, 2, 3], reference=None, probes=None,
                   log=lambda x: None).execute()
@@ -803,11 +849,36 @@ class TestDedupPrefersCleanClips(unittest.TestCase):
             self.assertEqual([c.id for c in dedup(cs, reviews)], ["c0", "c1", "c2"])
 
 
-class TestNewShow(unittest.TestCase):
+SAMPLE = os.path.join(ROOT, "tests", "sample_show")   # 3 short original episodes, publishable
+
+
+class TestSampleShow(unittest.TestCase):
+    """Runs anywhere: uses the small sample show in tests/sample_show/, not the input pack."""
+
+    def test_sample_show_parses(self):
+        show = load_show(SAMPLE)
+        self.assertEqual(sorted(show), [1, 2, 3])
+        self.assertTrue(all(e.blocks and not e.warnings for e in show.values()))
+        self.assertEqual(show[1].blocks[2].speaker, "MARA")
+        for ep in show.values():                             # ids follow time order, no gaps
+            self.assertEqual([b.id for b in ep.blocks], list(range(len(ep.blocks))))
+            self.assertEqual([b.start for b in ep.blocks], sorted(b.start for b in ep.blocks))
+
+    def test_offline_pipeline_end_to_end_and_verifier(self):
+        out = tempfile.mkdtemp()
+        try:
+            doc = Run(SAMPLE, out, None, reference=None, probes=None, log=lambda m: None).execute()
+            self.assertGreater(len(doc["ranked_promos"]), 0)
+            self.assertEqual(check(SAMPLE, doc)[0], [])
+            for f in ("promos.json", "report.md", "candidates_all.jsonl", "manifest.json"):
+                self.assertTrue(os.path.exists(os.path.join(out, f)), f)
+            doc["ranked_promos"][0]["segments"][0]["end_timestamp"] = "00:00:59.99"   # tamper
+            self.assertTrue(check(SAMPLE, doc)[0])
+        finally:
+            shutil.rmtree(out, ignore_errors=True)
+
     def test_eval_files_for_another_show_give_a_clear_error(self):
         from promo_finder.fixtures import load_fixture_file
-        small = {n: SHOW[n] for n in (1, 2)}               # a "show" without the reference episodes
         with self.assertRaisesRegex(ValueError, "is for another show.*--reference ''"):
-            load_fixture_file(small, os.path.join(ROOT, "eval", "reference_picks.json"), origin="reference")
-        self.assertEqual(len(load_fixture_file(SHOW, os.path.join(ROOT, "eval", "reference_picks.json"),
-                                               origin="reference")), 17)
+            load_fixture_file(load_show(SAMPLE), os.path.join(ROOT, "eval", "reference_picks.json"), origin="reference")
+

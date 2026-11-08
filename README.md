@@ -16,16 +16,30 @@ flags uncertain picks for a human editor. Built for the Kuku AI Generalist assig
 ```bash
 git clone https://github.com/<your-username>/promo-finder.git
 cd promo-finder
-# copy the 50 episode .txt files of the input pack into data/ (not in this repo: confidential)
-python3 -m unittest discover -s tests            # 60 tests, no API key needed
-python3 -m promo_finder run --provider heuristic --out runs/heuristic-baseline   # offline, no key
+python3 -m unittest discover -s tests       # 62 tests: 17 run anywhere, 45 need the input pack in data/
+python3 -m promo_finder run --provider heuristic --data tests/sample_show --reference '' --probes '' --out runs/sample
 ```
 
-With a free Gemini key in `.env`, the submitted configuration is:
+The second command runs the whole pipeline offline, without an API key, on the 3-episode sample
+show bundled in `tests/sample_show/`; open `runs/sample/report.md` to see the result.
+
+> **Want to test on your own episodes? Follow [Section G](#g-run-it-on-new-scripts-your-own-show).**
+
+With the 50-episode input pack copied into `data/` (not in this repo: confidential) and a free
+Gemini key in `.env` (section E), the submitted configuration is:
 
 ```bash
 python3 -m promo_finder run --provider gemini --model gemini-3.5-flash --critic-model gemini-3-flash-preview --fallback-model gemini-3-flash-preview --batch --arc-planner 1 --arc-ideas 5 --out runs/my-run
 ```
+
+## What works without an API key
+
+| Mode | What it does | Needs |
+|---|---|---|
+| **Heuristic** (`--provider heuristic`) | Parses the scripts and runs the whole pipeline offline: the timing rules, code repair, dedup, ranking, review flags, report and timestamp check. Clips are found and scored by keyword rules instead of an LLM, so use it to check that your files parse and the pipeline runs; its promos are a baseline, not AI picks. | nothing |
+| **Gemini** (`--provider gemini`) | **The actual AI promo discovery:** an LLM proposes clips, a second blind LLM call reviews them as a first-time viewer. Other providers (Claude, Groq, OpenRouter, Ollama) work the same way. | a free Gemini key in `.env` |
+| **Replay** (`--provider replay:gemini`) | Rebuilds the submitted run from its saved model responses, with zero API calls (section J). | `raw_output.zip` + input pack |
+| **Inspect the submitted run** | Read `raw_output/final_output/report.md` and `promos.json`; `verify`, `audit` and `compare` also make no API calls. | `raw_output.zip` |
 
 ## How it works (one paragraph)
 
@@ -42,7 +56,7 @@ promo_finder/   screenplay.py (parse) · scout.py (LLM clip finding) · candidat
                 (code repair) · critic.py (LLM review) · review.py (human-review flags) · pipeline.py
                 (orchestration) · llm.py (model providers, cache) · prompts.py · report.py · verify.py
                 · audit.py · compare.py · memo.py · cli.py (entry point: python3 -m promo_finder)
-tests/          60 unit and end-to-end tests
+tests/          62 unit and end-to-end tests · sample_show/ (3 original episodes, publishable)
 eval/           reference_picks.json (17 hand-picked promos for recall) · critic_probes.json (6 test clips)
 tools/          build_submission.py (raw-output package) · trace_cache.py (cache files a replay needs)
                 · check_pages.py (SOLUTION.md page count)
@@ -226,8 +240,30 @@ Labels `CAMERA`, `ACTION` and `SOUND FX`/`SFX` are treated as such; any other la
 e.g. `**LADY JULIANA (Breathless):**`. Times are `mm:ss.cc` (or `hh:mm:ss.cc`) from the start of
 the episode video. Every promo timestamp is copied from these lines, so they must match the video.
 
-**2. Put the files in a folder,** e.g. `my_show/`. Keep it out of git if the scripts are private
-(`data/` is already ignored).
+**2. Put the files in a folder** inside the project, e.g. `my_show/`:
+
+```
+promo-finder/
+├── my_show/
+│   ├── episode-001-Pilot.txt
+│   ├── episode-002.txt
+│   └── episode-003.txt
+├── promo_finder/
+├── tests/
+└── README.md
+```
+
+```bash
+mkdir my_show
+```
+
+```bash
+cp /path/to/your/scripts/*.txt my_show/
+```
+
+(Windows: `mkdir my_show` then `copy C:\path\to\scripts\*.txt my_show\`.) To see a working
+example first, copy the bundled sample show instead: `cp -r tests/sample_show my_show`. Keep the
+folder out of git if the scripts are private (`data/` is already ignored).
 
 **3. Check that every file parses** (offline, no key, a few seconds):
 
@@ -316,12 +352,15 @@ python3 -c "import json,sys; d=json.load(open(sys.argv[1])); print(d['model'], d
 python3 -m unittest discover -s tests -v
 ```
 
-The 60 tests need the input pack in `data/`; without it they are skipped with a message. They cover
-script parsing, every validation rule (with deliberately broken clips: late or weak hooks, misleading
-or off-screen cliffhangers, missing context, mid-dialogue cuts, wrong durations and timestamps, story
-order), code repair, the critic policies, human-review flags, the independent verifier (including a
-tampered output), provider retries and quota handling against a local fake server, cache accounting,
-batch mode within free quotas, and end-to-end runs with a fake model.
+No API key is needed for any test: model calls are answered by fake models and a local fake server.
+
+| Tests | Count | Needs |
+|---|---|---|
+| Timecodes, parsing and block order on the sample show, JSON extraction from replies, Anthropic and OpenAI-compatible clients (retries, HTTP 429, daily quota, missing keys), call counting, score-key normalisation, unknown-episode check, raw-file naming, dedup rule, an end-to-end offline run, tamper check and eval-file check on the sample show | 17 | nothing: they run in a fresh clone |
+| Parsing the full pack and its block order, every validation rule on real clips (late or weak hooks, misleading or off-screen cliffhangers, missing context, mid-dialogue cuts, wrong durations and timestamps, story order), code repair, critic policies, human-review flags, batch mode within free quotas, audit, compare, and end-to-end runs on all 50 episodes | 45 | the 50-episode input pack in `data/` |
+
+Without the input pack the 45 are reported as skipped (`OK (skipped=45)`), not failed. To point
+the tests at a different copy of the pack: `PROMO_TEST_DATA=/path/to/pack python3 -m unittest discover -s tests`.
 
 ## J. Inspect or reproduce the submitted run
 
