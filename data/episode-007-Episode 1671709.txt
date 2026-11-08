@@ -1,0 +1,260 @@
+EPISODE NUMBER: Episode 7
+EPISODE LOGLINE: When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.
+CONTINUITY NOTES: Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. WOODLAND COTTAGE - DAY
+Scene start: 00:00.00
+Scene end: 01:09.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.80)
+Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:04.80)
+Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails.
+
+**CAMERA:**
+Start: (00:04.80) | End: (00:11.80)
+Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate.
+
+**SOUND FX:**
+Start: (00:05.00) | End: (00:11.50)
+Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting.
+
+**CAMERA:**
+Start: (00:11.80) | End: (00:15.00)
+Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown.
+
+**CAMERA:**
+Start: (00:15.00) | End: (00:19.50)
+Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat.
+
+**ACTION:**
+Start: (00:19.50) | End: (00:21.00)
+Aristocratic Woman smirks cruelly as she surveys the humble stone cottage.
+
+**ACTION:**
+Start: (00:21.00) | End: (00:24.00)
+Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high.
+
+**ARISTOCRATIC WOMAN (Mocking, Condescending):**
+Start: (00:22.00) | End: (00:24.50)
+"This is where you live now?"
+
+**CAMERA:**
+Start: (00:24.50) | End: (00:29.80)
+Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully.
+
+**GERALD (Arrogant, Scornful):**
+Start: (00:25.00) | End: (00:29.80)
+"A fitting home for a woman who threw away everything for a penniless soldier."
+
+**CAMERA:**
+Start: (00:29.80) | End: (00:32.80)
+Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair.
+
+**JULIANA (Sharp, Unintimidated):**
+Start: (00:30.00) | End: (00:32.60)
+"You came all this way just to insult my home?"
+
+**CAMERA:**
+Start: (00:32.80) | End: (00:37.50)
+Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol.
+
+**ARISTOCRATIC WOMAN (Gloating, Mocking):**
+Start: (00:33.20) | End: (00:37.80)
+"Home? Look at your hands, Juliana."
+
+**CAMERA:**
+Start: (00:37.80) | End: (00:39.80)
+Close-up of Juliana's mud-stained palms held open against her apron.
+
+**ARISTOCRATIC WOMAN (O.S.) (Cruel):**
+Start: (00:38.20) | End: (00:39.80)
+"You look like a servant."
+
+**CAMERA:**
+Start: (00:39.80) | End: (00:41.00)
+Close-up of Gerald's smug expression watching Juliana.
+
+**CAMERA:**
+Start: (00:41.00) | End: (00:45.00)
+Medium close-up of Juliana lifting her chin with unwavering dignity.
+
+**JULIANA (Proud, Resolute):**
+Start: (00:41.20) | End: (00:44.80)
+"I work with my hands. There is no shame in that."
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:47.00)
+Close-up on Gerald's tightening jaw.
+
+**GERALD (Biting, Condescending):**
+Start: (00:45.20) | End: (00:46.80)
+"You were born a lady."
+
+**CAMERA:**
+Start: (00:47.00) | End: (00:50.80)
+Close-up on Juliana's clear blue eyes, shining with unbroken pride.
+
+**JULIANA (Firm, Unapologetic):**
+Start: (00:48.80) | End: (00:50.40)
+"And I remain one."
+
+**CAMERA:**
+Start: (00:50.80) | End: (00:54.80)
+Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.
+
+**GERALD (Bitter, Sneering):**
+Start: (00:51.50) | End: (00:54.60)
+"You chose that scarred beggar over a life of comfort."
+
+**CAMERA:**
+Start: (00:54.80) | End: (01:01.50)
+Two-shot profile of Juliana looking straight into Gerald's eyes without flinching.
+
+**JULIANA (Passionate, Defiant):**
+Start: (00:57.80) | End: (01:01.00)
+"I chose a man who stood beside me when you walked away."
+
+**CAMERA:**
+Start: (01:01.50) | End: (01:05.20)
+Intense close-up of Juliana dismissing him with utter contempt.
+
+**JULIANA (Cold, Commanding):**
+Start: (01:01.80) | End: (01:04.80)
+"You have no authority here. Leave."
+
+**CAMERA:**
+Start: (01:05.20) | End: (01:09.50)
+Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face.
+
+**GERALD (Furious, Threatening):**
+Start: (01:05.60) | End: (01:08.50)
+"I have enough influence to make a beggar disappear."
+
+**GERALD (Spiteful, Boastful):**
+Start: (01:08.60) | End: (01:09.50)
+"And your husband?"
+
+SCENE 02
+Scene heading: EXT. FOREST PATH - CONTINUOUS
+Scene start: 01:09.50
+Scene end: 01:15.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (01:09.50) | End: (01:14.00)
+Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist.
+
+**GERALD (V.O.) (Snarl):**
+Start: (01:09.50) | End: (01:11.20)
+"Where is that beggar husband?"
+
+**ACTION:**
+Start: (01:10.00) | End: (01:15.50)
+The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord.
+
+**CAMERA:**
+Start: (01:14.00) | End: (01:15.50)
+Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate.
+
+SCENE 03
+Scene heading: EXT. WOODLAND COTTAGE - CONTINUOUS
+Scene start: 01:15.50
+Scene end: 01:56.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (01:15.50) | End: (01:18.50)
+Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall.
+
+**SOUND FX:**
+Start: (01:16.20) | End: (01:17.50)
+A dull, heavy thud of timber striking the mud.
+
+**CAMERA:**
+Start: (01:18.50) | End: (01:21.00)
+Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald.
+
+**CAMERA:**
+Start: (01:21.00) | End: (01:23.50)
+Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity.
+
+**ACTION:**
+Start: (01:21.50) | End: (01:24.00)
+Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face.
+
+**CAMERA:**
+Start: (01:23.50) | End: (01:28.00)
+Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously.
+
+**ARISTOCRATIC WOMAN (O.S.) (Urgent, Annoyed):**
+Start: (01:26.50) | End: (01:28.50)
+"Gerald, don't let him frighten you."
+
+**GERALD (Trembling, Trying to Save Face):**
+Start: (01:28.60) | End: (01:30.00)
+"What are you staring at?"
+
+**ACTION:**
+Start: (01:30.00) | End: (01:31.50)
+Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare.
+
+**GERALD (Nervous, Hurried):**
+Start: (01:30.10) | End: (01:31.40)
+"We are leaving."
+
+**CAMERA:**
+Start: (01:31.50) | End: (01:33.80)
+Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her.
+
+**ARISTOCRATIC WOMAN (Outraged, Flustered):**
+Start: (01:32.00) | End: (01:33.80)
+"Leaving? Gerald!"
+
+**ACTION:**
+Start: (01:33.80) | End: (01:36.50)
+Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut.
+
+**SOUND FX:**
+Start: (01:35.00) | End: (01:36.00)
+Carriage door slamming shut.
+
+**CAMERA:**
+Start: (01:36.00) | End: (01:39.00)
+Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage.
+
+**CAMERA:**
+Start: (01:39.00) | End: (01:43.50)
+Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration.
+
+**JULIANA (Impressed, Softly Amused):**
+Start: (01:40.80) | End: (01:43.20)
+"You didn't say a word."
+
+**CAMERA:**
+Start: (01:43.50) | End: (01:47.50)
+Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection.
+
+**SCARRED BEARDED MAN (Low, Gentle, Confident):**
+Start: (01:46.00) | End: (01:47.80)
+"I didn't need to."
+
+**CAMERA:**
+Start: (01:47.50) | End: (01:51.50)
+Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door.
+
+**CAMERA:**
+Start: (01:51.50) | End: (01:56.00)
+Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out.
+
+--- SCRIPT END ---

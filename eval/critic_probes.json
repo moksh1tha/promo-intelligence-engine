@@ -1,0 +1,8 @@
+[
+ {"id": "PROBE-good-rescue", "expect": "pass", "note": "Known strong promo (rescue + proposal)", "segments": [{"episode": 3, "start": "00:58.30", "end": "01:25.50"}, {"episode": 3, "start": "01:59.80", "end": "02:25.75"}]},
+ {"id": "PROBE-good-ring", "expect": "pass", "note": "Known strong promo (ring recognition, doors burst)", "segments": [{"episode": 26, "start": "01:30.20", "end": "01:55.50"}, {"episode": 27, "start": "00:17.20", "end": "00:31.40"}, {"episode": 27, "start": "00:44.50", "end": "00:51.50"}]},
+ {"id": "PROBE-weak-hook", "expect": "weak_hook", "note": "Calm herb-lore conversation; no hook", "segments": [{"episode": 8, "start": "00:45.50", "end": "01:18.00"}]},
+ {"id": "PROBE-resolved-ending", "expect": "predictable_ending", "note": "Conflict resolves: Catherine accepts the apron", "segments": [{"episode": 47, "start": "01:24.00", "end": "02:11.20"}]},
+ {"id": "PROBE-missing-context", "expect": "missing_context", "note": "Insider talk about 'the hearing' and 'the council' with no setup", "segments": [{"episode": 49, "start": "01:17.20", "end": "01:57.80"}]},
+ {"id": "PROBE-misleading-edit", "expect": "misleading_edit", "note": "Ep1 altar betrayal spliced to ep45 marriage annulment as if one scene", "segments": [{"episode": 1, "start": "00:33.80", "end": "00:43.10"}, {"episode": 45, "start": "01:28.40", "end": "01:53.00"}]}
+]

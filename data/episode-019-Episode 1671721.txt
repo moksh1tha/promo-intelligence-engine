@@ -1,0 +1,280 @@
+EPISODE NUMBER: Episode 19
+EPISODE LOGLINE: Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.
+CONTINUITY NOTES: Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. BLACKWOOD COTTAGE RUINS – DAY
+Scene start: 00:00.00
+Scene end: 00:41.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.50)
+Full shot of Juliana and Alexander standing side by side amidst the charred, smoldering wreckage of their destroyed cottage, thick smoke rising behind them into the overcast sky.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:04.50)
+Juliana clutches her mother's scorched leather-bound herbal book against her chest, her face streaked with soot as she stares at the ruin in disbelief.
+
+**JULIANA (Sorrowful, Hollow):**
+Start: (00:01.80) | End: (00:03.50)
+"This was our home."
+
+**CAMERA:**
+Start: (00:04.50) | End: (00:09.50)
+Close-up of the blackened, heat-damaged leather ledger held in Juliana's linen-bandaged hands.
+
+**JULIANA (Emotional, Fragile):**
+Start: (00:05.10) | End: (00:08.20)
+"My mother's book almost burned with it."
+
+**ACTION:**
+Start: (00:06.50) | End: (00:09.20)
+Juliana tenderly lifts a scorched corner of parchment, revealing the surviving botanical drawing of medicinal herbs inside.
+
+**CAMERA:**
+Start: (00:09.50) | End: (00:11.80)
+Medium shot of Alexander looking down at Juliana with quiet, stoic concern.
+
+**CAMERA:**
+Start: (00:11.80) | End: (00:15.50)
+Medium shot of three villagers approaching through the burnt clearing: an elder villager carrying folded wool blankets, followed by a man and woman holding loaves of baked bread.
+
+**ELDER VILLAGER (Respectful, Sincere):**
+Start: (00:12.10) | End: (00:15.20)
+"My lady. You cannot stay here."
+
+**CAMERA:**
+Start: (00:15.50) | End: (00:18.50)
+Close-up of Juliana's tearful, soot-stained face as she listens.
+
+**ELDER VILLAGER (O.S.):**
+Start: (00:16.10) | End: (00:19.00)
+"There is an old barn near the village. It is empty."
+
+**ACTION:**
+Start: (00:18.50) | End: (00:20.50)
+The elder villager steps closer, resting a gentle, reassuring hand on Juliana's shoulder.
+
+**ELDER VILLAGER (Gentle, Earnest):**
+Start: (00:19.40) | End: (00:20.40)
+"Take it."
+
+**JULIANA (Hesitant, Humble):**
+Start: (00:20.60) | End: (00:22.60)
+"We cannot ask the village to feed us."
+
+**ELDER VILLAGER (Warm, Grateful):**
+Start: (00:23.20) | End: (00:25.20)
+"You saved my son's life."
+
+**CAMERA:**
+Start: (00:25.80) | End: (00:28.20)
+Close-up of the elder villager's rough, weathered hands offering a fresh loaf of artisan bread wrapped in cloth against the smoking timber ruins.
+
+**ELDER VILLAGER (O.S.):**
+Start: (00:26.40) | End: (00:27.80)
+"You saved mine, too."
+
+**CAMERA:**
+Start: (00:28.20) | End: (00:30.80)
+Close-up of Juliana, tears spilling down her cheeks as she smiles through her grief.
+
+**JULIANA (Whispering, Tearful):**
+Start: (00:28.50) | End: (00:29.80)
+"Thank you."
+
+**ACTION:**
+Start: (00:30.80) | End: (00:34.50)
+Alexander steps forward and accepts the thick folded blankets and a wooden bucket from the villager.
+
+**ALEXANDER (Deep, Solemn):**
+Start: (00:31.20) | End: (00:33.20)
+"We will not forget this kindness."
+
+**ELDER VILLAGER (Nodding, Earnest):**
+Start: (00:33.30) | End: (00:34.80)
+"Neither will the village."
+
+**CAMERA:**
+Start: (00:34.80) | End: (00:38.20)
+Medium close-up of Juliana looking back one last time at the devastated doorway of her ruined sanctuary, hugging the ledger tightly.
+
+**JULIANA (Choked Up, Mournful):**
+Start: (00:35.50) | End: (00:37.40)
+"Goodbye, Blackwood."
+
+**ACTION:**
+Start: (00:38.00) | End: (00:41.50)
+Juliana turns her back on the ruins. Wide tracking shot from behind as Alexander and Juliana walk side by side down the stone path, leaving the smoldering ash behind as the scene fades into black.
+
+SCENE 02
+Scene heading: EXT. MISTY DEEP WOODS – DAY
+Scene start: 00:41.50
+Scene end: 01:29.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:41.50) | End: (00:44.20)
+Medium shot tracking Alexander from behind as he stands waiting beside a moss-covered ancient tree trunk in the dense, fog-laden forest.
+
+**ACTION:**
+Start: (00:43.00) | End: (00:46.00)
+A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.
+
+**INFORMANT (Subservient, Urgent):**
+Start: (00:44.30) | End: (00:45.80)
+"Your Grace."
+
+**CAMERA:**
+Start: (00:46.00) | End: (00:49.20)
+Medium close-up of Alexander turning toward his operative, his eyes dark with calculating authority.
+
+**ALEXANDER (Authoritative, Direct):**
+Start: (00:47.10) | End: (00:49.20)
+"Tell me what is happening in Ashburg."
+
+**INFORMANT (Grave, Cautious):**
+Start: (00:49.50) | End: (00:54.80)
+"Lord Sterling's influence has grown since your disappearance. He has men in the county offices, the courts, even among the household staff."
+
+**CAMERA:**
+Start: (00:55.30) | End: (01:01.40)
+Slow push-in on Alexander's rugged, scarred face, his jaw tightening with simmering rage as he listens.
+
+**INFORMANT (O.S.):**
+Start: (00:55.30) | End: (01:01.30)
+"Rupert has become the face of Ashburg. He sits in your father's room, signs your estate papers, gives orders as though the title already belongs to him."
+
+**CAMERA:**
+Start: (01:01.40) | End: (01:04.80)
+Medium shot of the bald informant standing among the towering trees, reporting solemnly.
+
+**INFORMANT (Earnest):**
+Start: (01:01.60) | End: (01:04.80)
+"And Lady Catherine, she behaves as though she is already the future duchess."
+
+**CAMERA:**
+Start: (01:04.80) | End: (01:10.60)
+Close-up of the informant, his voice dropping into urgent, discreet concern.
+
+**INFORMANT (Whispering, Alarmed):**
+Start: (01:05.10) | End: (01:10.50)
+"But they have separated her from the household. She is watched constantly. Every letter she sends is checked. Every visitor is questioned."
+
+**CAMERA:**
+Start: (01:10.60) | End: (01:13.30)
+Extreme close-up of Alexander's right hand clenching into a powerful, trembling fist at his coat seam, veins bulging with restrained violence.
+
+**INFORMANT (O.S.):**
+Start: (01:10.90) | End: (01:13.20)
+"There are almost no loyal servants left around her."
+
+**CAMERA:**
+Start: (01:13.30) | End: (01:16.20)
+Low-angle shot past Alexander toward the informant.
+
+**INFORMANT (Grave):**
+Start: (01:13.50) | End: (01:16.40)
+"The people who served your family for years have been dismissed, frightened away, or replaced."
+
+**ACTION:**
+Start: (01:16.20) | End: (01:18.80)
+Alexander lifts his gaze toward the cold forest canopy, his breathing heavy with profound anguish.
+
+**ALEXANDER (Cold, Pained Fury):**
+Start: (01:16.50) | End: (01:18.80)
+"My mother is a prisoner in her own house."
+
+**CAMERA:**
+Start: (01:18.80) | End: (01:21.20)
+Close-up of the informant looking steadily at Alexander.
+
+**INFORMANT (Quiet, Solemn):**
+Start: (01:19.00) | End: (01:21.00)
+"And everyone believes you are dead."
+
+**CAMERA:**
+Start: (01:21.20) | End: (01:23.80)
+Extreme close-up of Alexander's scarred eye and grimly set mouth.
+
+**ALEXANDER (Lethal, Calculating):**
+Start: (01:21.50) | End: (01:23.70)
+"Then let them believe it a little longer."
+
+**INFORMANT (Inquiring, Tense):**
+Start: (01:24.00) | End: (01:25.50)
+"And when we have the proof?"
+
+**CAMERA:**
+Start: (01:25.50) | End: (01:29.50)
+Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog.
+
+**ALEXANDER (Vow of Vengeance, Resolute):**
+Start: (01:25.90) | End: (01:28.90)
+"Then Ashburg will remember who it belongs to."
+
+SCENE 03
+Scene heading: INT. ABANDONED BARN – NIGHT
+Scene start: 01:29.50
+Scene end: 01:59.63
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (01:29.50) | End: (01:34.00)
+Wide atmospheric shot of the shadowy barn loft. Moonlight filters through vertical wooden slats, illuminating Juliana seated on a pile of straw beside a warm, glowing kerosene lantern.
+
+**CAMERA:**
+Start: (01:34.00) | End: (01:36.80)
+Over-the-shoulder close-up of Juliana's bandaged hands tracing the detailed botanical drawing on the charred page of her mother's herbal.
+
+**CAMERA:**
+Start: (01:36.80) | End: (01:37.80)
+Close-up of Juliana's face, silent tears streaming down her soot-smudged cheeks as her chin quivers.
+
+**ACTION:**
+Start: (01:37.20) | End: (01:40.00)
+The heavy wooden barn doors creak open. Alexander steps into the lantern light, carrying a bundle of firewood and a thick blanket under his arm.
+
+**JULIANA (O.S.):**
+Start: (01:37.40) | End: (01:39.40)
+"We have lost everything."
+
+**CAMERA:**
+Start: (01:39.90) | End: (01:43.00)
+Medium shot of Juliana breaking down in tears over her open book, struggling to breathe through her weeping.
+
+**JULIANA (Despairing, Broken):**
+Start: (01:40.40) | End: (01:42.60)
+"I don't know what we will do tomorrow."
+
+**ACTION:**
+Start: (01:43.00) | End: (01:46.00)
+Alexander steps up behind her and gently drapes the thick woolen blanket over her trembling shoulders, resting his hands reassuringly on her.
+
+**ALEXANDER (Soft, Steadfast):**
+Start: (01:44.20) | End: (01:46.20)
+"Tomorrow, we begin again."
+
+**CAMERA:**
+Start: (01:46.00) | End: (01:49.80)
+Close-up of Juliana turning her tear-drenched eyes up toward Alexander, her face filled with longing and newfound hope.
+
+**JULIANA (Faint Smile, Emotional):**
+Start: (01:47.30) | End: (01:49.20)
+"You make it sound so simple."
+
+**ACTION:**
+Start: (01:49.80) | End: (01:52.50)
+Alexander sits down beside her in the straw. Juliana leans gently against his shoulder, letting her weary head rest against his broad chest.
+
+**CAMERA:**
+Start: (01:52.50) | End: (01:59.63)
+Slow cinematic push-in on the couple nestled together in the warm lantern glow. Alexander wraps his arm firmly around Juliana as she closes her eyes in exhausted relief, while his piercing gaze stares resolutely into the darkness, determined to reclaim everything that was stolen.
+
+--- SCRIPT END ---

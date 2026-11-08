@@ -1,0 +1,307 @@
+EPISODE NUMBER: Episode 20
+EPISODE LOGLINE: Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.
+CONTINUITY NOTES: Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. ASHBURY MANOR – DAY
+Scene start: 00:00.00
+Scene end: 00:02.80
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:02.80)
+Low-angle establishing shot tilting up toward the imposing, grand stone facade of Ashbury Manor against a cold, overcast morning sky, frost dusting the pristine lawn.
+
+SCENE 02
+Scene heading: INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS
+Scene start: 00:02.80
+Scene end: 00:56.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:02.80) | End: (00:06.80)
+Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window.
+
+**CATHERINE (Smug, Prim):**
+Start: (00:02.90) | End: (00:04.40)
+"Two lumps of sugar, Rupert?"
+
+**CATHERINE (Taunting, Silkily):**
+Start: (00:04.60) | End: (00:07.80)
+"Or has your sudden climb to power sweetened your taste already?"
+
+**CAMERA:**
+Start: (00:06.90) | End: (00:09.50)
+Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk.
+
+**RUPERT (Flirtatious, Sly):**
+Start: (00:08.20) | End: (00:10.80)
+"Only if it sweetens your disposition, Catherine."
+
+**CAMERA:**
+Start: (00:09.60) | End: (00:15.20)
+Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.
+
+**RUPERT (Boastful, Confident):**
+Start: (00:10.90) | End: (00:12.70)
+"The estate is practically ours."
+
+**RUPERT (Smug):**
+Start: (00:12.80) | End: (00:15.10)
+"The succession papers are being finalized as we speak."
+
+**CAMERA:**
+Start: (00:15.20) | End: (00:20.00)
+Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive.
+
+**CATHERINE (Cold, Haughty):**
+Start: (00:15.40) | End: (00:18.70)
+"'Practically' is a word for beggars. I do not marry a practical Duke."
+
+**CATHERINE (Stern, Ambitious):**
+Start: (00:18.80) | End: (00:20.10)
+"I marry the Lord of Ashbury."
+
+**CAMERA:**
+Start: (00:20.00) | End: (00:25.50)
+Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction.
+
+**RUPERT (Reassuring, Firm):**
+Start: (00:20.10) | End: (00:21.20)
+"And so you shall."
+
+**RUPERT (Dark, Conspiratorial):**
+Start: (00:21.30) | End: (00:24.20)
+"Once my cousin Alexander's death is formally sealed by the Crown..."
+
+**RUPERT (Decisive):**
+Start: (00:24.30) | End: (00:25.40)
+"...the title is mine."
+
+**CAMERA:**
+Start: (00:25.50) | End: (00:30.20)
+Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern.
+
+**CATHERINE (Wary, Inquiring):**
+Start: (00:25.50) | End: (00:28.20)
+"And what of the Dowager? The old woman still breathes."
+
+**CATHERINE (Disdainful):**
+Start: (00:28.30) | End: (00:30.20)
+"Her shadow still hangs over this house."
+
+**CAMERA:**
+Start: (00:30.20) | End: (00:34.00)
+Tight close-up of Rupert's face as a sinister grin spreads across his features.
+
+**RUPERT (Quiet, Sinister):**
+Start: (00:30.20) | End: (00:32.80)
+"Her health fails more each day. The physicians are baffled."
+
+**RUPERT (Gloating):**
+Start: (00:32.90) | End: (00:34.40)
+"They call it a wasting of the lungs."
+
+**CAMERA:**
+Start: (00:34.10) | End: (00:39.20)
+Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment.
+
+**CATHERINE (Mock-Sympathetic, Cruel):**
+Start: (00:34.20) | End: (00:36.80)
+"How tragic. The slow, quiet decline."
+
+**CATHERINE (Scheming):**
+Start: (00:36.90) | End: (00:39.10)
+"How much longer can the frail thing survive?"
+
+**CAMERA:**
+Start: (00:39.30) | End: (00:42.50)
+Medium profile of Rupert looking out the window, hands clasped behind him.
+
+**RUPERT (Cold, Callous):**
+Start: (00:39.40) | End: (00:42.40)
+"Not through the winter. I've ensured her quiet comfort."
+
+**CAMERA:**
+Start: (00:42.50) | End: (00:50.00)
+Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust.
+
+**CATHERINE (Vindictive):**
+Start: (00:42.60) | End: (00:44.90)
+"Good. The village is already whispering about her."
+
+**CATHERINE (Contemptuous):**
+Start: (00:45.00) | End: (00:48.40)
+"The local peasants are like dogs, barking at every carriage that passes."
+
+**CATHERINE (Disgusted):**
+Start: (00:48.50) | End: (00:49.80)
+"They disgust me."
+
+**CAMERA:**
+Start: (00:50.00) | End: (00:56.50)
+Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder.
+
+**RUPERT (Dismissive, Arrogant):**
+Start: (00:50.20) | End: (00:52.50)
+"They are nothing. Dirt beneath our boots."
+
+**RUPERT (Authoritative, Promising):**
+Start: (00:52.80) | End: (00:56.00)
+"They will learn their place when you wear the ducal crown."
+
+SCENE 03
+Scene heading: INT. ABANDONED BARN – DAY
+Scene start: 00:56.50
+Scene end: 01:28.20
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:56.50) | End: (01:00.30)
+Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire.
+
+**ACTION:**
+Start: (01:00.00) | End: (01:04.50)
+The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern.
+
+**SEAMUS (Gentle, Concerned):**
+Start: (01:00.50) | End: (01:02.50)
+"Let me take that basket, Lady Juliana."
+
+**SEAMUS (Empathetic):**
+Start: (01:02.60) | End: (01:06.60)
+"Your palms are still raw from the fire. You shouldn't be working in this freezing draft."
+
+**ACTION:**
+Start: (01:04.80) | End: (01:06.80)
+Seamus reaches down to take the handle of the basket from her.
+
+**CAMERA:**
+Start: (01:06.80) | End: (01:10.50)
+Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket.
+
+**JULIANA (Fierce, Resolute):**
+Start: (01:06.70) | End: (01:09.10)
+"If I stop, Seamus, the lung fever in the valley wins."
+
+**JULIANA (Defiant):**
+Start: (01:09.20) | End: (01:10.50)
+"I do not yield to a cold draft."
+
+**CAMERA:**
+Start: (01:10.50) | End: (01:16.20)
+Close-up of Seamus, his face agonizingly strained with grief for her lost status.
+
+**SEAMUS (Desperate, Grieving):**
+Start: (01:10.60) | End: (01:12.30)
+"You are a viscount's daughter!"
+
+**SEAMUS (Pleading):**
+Start: (01:12.40) | End: (01:14.20)
+"Sleeping on straw, sorting weeds!"
+
+**SEAMUS (Frustrated):**
+Start: (01:14.30) | End: (01:16.20)
+"Let the village tend to itself for once!"
+
+**CAMERA:**
+Start: (01:16.20) | End: (01:21.00)
+Medium close-up of Juliana, her jaw set with unwavering moral strength.
+
+**JULIANA (Passionate, Unflinching):**
+Start: (01:16.30) | End: (01:19.80)
+"The chapel is gone, Seamus. I am the only healer these people have left."
+
+**JULIANA (Unyielding):**
+Start: (01:19.90) | End: (01:21.00)
+"I keep the basket."
+
+**CAMERA:**
+Start: (01:21.00) | End: (01:28.20)
+Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them.
+
+**SEAMUS (Saddened, Heartbroken):**
+Start: (01:22.00) | End: (01:24.40)
+"They have reduced you to a peasant."
+
+**JULIANA (Proud, Indomitable):**
+Start: (01:24.80) | End: (01:26.50)
+"They have reduced me to myself."
+
+**JULIANA (Steely):**
+Start: (01:26.60) | End: (01:28.00)
+"And I am not finished."
+
+SCENE 04
+Scene heading: INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS
+Scene start: 01:28.20
+Scene end: 01:54.75
+
+Actions and dialogue:
+
+**ACTION:**
+Start: (01:28.20) | End: (01:30.00)
+Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter.
+
+**SOUND FX:**
+Start: (01:28.40) | End: (01:29.40)
+Sharp porcelain chime of teacup meeting saucer.
+
+**CAMERA:**
+Start: (01:29.80) | End: (01:34.80)
+Close-up of Catherine looking up, her face twisting into venomous arrogance.
+
+**CATHERINE (Cruel, Callous):**
+Start: (01:29.90) | End: (01:32.40)
+"Let the peasants rot in their barns."
+
+**CATHERINE (Mocking, Spiteful):**
+Start: (01:32.60) | End: (01:34.50)
+"Let them pray to their weeds."
+
+**CAMERA:**
+Start: (01:34.80) | End: (01:39.20)
+Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively.
+
+**RUPERT (Intimate, Reassuring):**
+Start: (01:34.90) | End: (01:37.30)
+"You have no rival here, Catherine."
+
+**RUPERT (Fawning):**
+Start: (01:37.40) | End: (01:39.10)
+"No one to stand in your way."
+
+**CAMERA:**
+Start: (01:39.20) | End: (01:43.80)
+Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold.
+
+**CATHERINE (Triumphant, Greedy):**
+Start: (01:39.30) | End: (01:41.40)
+"Once the old Duchess is gone..."
+
+**CATHERINE (Possessive):**
+Start: (01:41.50) | End: (01:43.70)
+"...Ashbury will finally belong to us."
+
+**ACTION:**
+Start: (01:43.80) | End: (01:49.00)
+Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds.
+
+**CAMERA:**
+Start: (01:44.00) | End: (01:49.50)
+Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette.
+
+**CATHERINE (Cold, Ruthless):**
+Start: (01:46.80) | End: (01:49.20)
+"This house will only bow to me."
+
+**CAMERA:**
+Start: (01:49.50) | End: (01:54.75)
+Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold.
+
+--- SCRIPT END ---

@@ -1,0 +1,394 @@
+EPISODE NUMBER: Episode 25
+EPISODE LOGLINE: Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.
+CONTINUITY NOTES: Picks up immediately following Juliana's ordeal at Ashburg Manor, where she escaped punishment after hiding the antidote and now encounters Alexander awaiting her on the woodland trail.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. MISTY FOREST TRAIL – DUSK
+Scene start: 00:00.00
+Scene end: 02:48.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.20)
+Wide tracking shot through a dense, sun-dappled forest as mist curls around towering tree trunks and tangled roots.
+
+**ACTION:**
+Start: (00:00.60) | End: (00:04.20)
+Juliana walks hurriedly along the leaf-strewn forest path, clutching her dark hooded cloak tightly around her shoulders, breathing heavily.
+
+**CAMERA:**
+Start: (00:04.20) | End: (00:07.00)
+Medium low-angle shot panning up as Alexander emerges from behind a moss-covered tree, blocking the trail.
+
+**ALEXANDER (Grave, Alert):**
+Start: (00:05.10) | End: (00:06.40)
+"Juliana."
+
+**CAMERA:**
+Start: (00:07.00) | End: (00:08.50)
+Close-up of Juliana stopping abruptly, her expression guarded and weary.
+
+**ALEXANDER (Concerned, Suspicious):**
+Start: (00:07.80) | End: (00:09.60)
+"Why are you walking like that?"
+
+**CAMERA:**
+Start: (00:08.50) | End: (00:13.20)
+Medium close-up of Juliana clutching the collar of her cloak with trembling fingers.
+
+**JULIANA (Deflective, Breathless):**
+Start: (00:10.20) | End: (00:12.80)
+"I am tired. That is all."
+
+**ACTION:**
+Start: (00:13.20) | End: (00:16.00)
+Alexander steps forward and reaches out, his gloved hand firmly grasping her left shoulder. Juliana winces sharply and gasps in sudden pain.
+
+**CAMERA:**
+Start: (00:13.20) | End: (00:16.20)
+Two-shot profile of Alexander grabbing Juliana's shoulder as she recoils.
+
+**ALEXANDER (Sharp, Alarmed):**
+Start: (00:14.90) | End: (00:16.10)
+"You're hurt."
+
+**CAMERA:**
+Start: (00:16.20) | End: (00:18.80)
+Close-up of Juliana gritting her teeth against the pain, shaking her head.
+
+**JULIANA (Strained, Minimizing):**
+Start: (00:16.80) | End: (00:18.50)
+"It is nothing."
+
+**ACTION:**
+Start: (00:18.80) | End: (00:22.50)
+Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.
+
+**CAMERA:**
+Start: (00:18.80) | End: (00:22.80)
+Tight close-up of the fresh riding-crop laceration cut across Juliana's shoulder.
+
+**CAMERA:**
+Start: (00:22.80) | End: (00:25.80)
+Close-up of Alexander's scarred face darkening with volatile fury, his jaw tightening.
+
+**ALEXANDER (Seething, Dangerous):**
+Start: (00:24.00) | End: (00:25.50)
+"Who did this?"
+
+**CAMERA:**
+Start: (00:25.80) | End: (00:29.80)
+Medium close-up of Juliana averting her eyes, her head bowed in quiet resignation.
+
+**JULIANA (Subdued, Weary):**
+Start: (00:27.50) | End: (00:29.30)
+"It does not matter."
+
+**CAMERA:**
+Start: (00:29.80) | End: (00:32.80)
+Tight shot of Alexander, his eyes burning with intense anger.
+
+**ACTION:**
+Start: (00:32.80) | End: (00:34.50)
+Alexander steps directly into her space, firmly taking her hand in his.
+
+**ALEXANDER (Demanding, Stern):**
+Start: (00:32.80) | End: (00:33.80)
+"Who?"
+
+**CAMERA:**
+Start: (00:34.50) | End: (00:38.50)
+Close-up of Juliana looking up into his eyes, whispering the truth.
+
+**JULIANA (Quiet, Apprehensive):**
+Start: (00:36.00) | End: (00:37.80)
+"Lady Catherine."
+
+**CAMERA:**
+Start: (00:38.50) | End: (00:41.20)
+Close-up of Alexander, his gaze piercing and hard.
+
+**ALEXANDER (Low, Interrogating):**
+Start: (00:39.20) | End: (00:41.00)
+"Where did you meet her?"
+
+**CAMERA:**
+Start: (00:41.20) | End: (00:44.40)
+Close-up of Juliana recounting the incident.
+
+**JULIANA (Hedged):**
+Start: (00:41.20) | End: (00:44.20)
+"I was in the wrong chamber. I was punished as a maid."
+
+**CAMERA:**
+Start: (00:44.40) | End: (00:46.80)
+Close-up of Alexander, pressing her without hesitation.
+
+**ALEXANDER (Incredulous, Demanding):**
+Start: (00:44.60) | End: (00:46.40)
+"What were you doing there?"
+
+**CAMERA:**
+Start: (00:46.80) | End: (00:51.50)
+Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.
+
+**ALEXANDER (Fierce, Urgent):**
+Start: (00:47.00) | End: (00:51.20)
+"Juliana... why were you inside Ashburg Manor?"
+
+**CAMERA:**
+Start: (00:51.50) | End: (00:54.20)
+Close-up of Juliana holding his gaze resolutely.
+
+**JULIANA (Earnest):**
+Start: (00:52.20) | End: (00:54.20)
+"I went there to help someone."
+
+**ALEXANDER (Blunt):**
+Start: (00:54.40) | End: (00:55.20)
+"Who?"
+
+**CAMERA:**
+Start: (00:54.50) | End: (00:57.50)
+Medium close-up profile of both of them locked in stillness.
+
+**JULIANA (Solemn):**
+Start: (00:55.60) | End: (00:57.20)
+"The Dowager Duchess."
+
+**CAMERA:**
+Start: (00:57.50) | End: (01:03.50)
+Tight close-up of Alexander's face freezing in shock, his eyes widening as the revelation hits him.
+
+**ALEXANDER (Stunned, Disbelieving):**
+Start: (01:00.80) | End: (01:02.50)
+"The Dowager?"
+
+**CAMERA:**
+Start: (01:03.50) | End: (01:08.50)
+Medium profile tracking shot as Juliana begins walking slowly along the trail, Alexander following closely by her side.
+
+**JULIANA (Urgent):**
+Start: (01:06.20) | End: (01:08.50)
+"Prudence told me she was dying."
+
+**CAMERA:**
+Start: (01:08.50) | End: (01:13.80)
+Medium close-up of Juliana turning toward him, recounting the scene in the bedchamber.
+
+**JULIANA (Fervent):**
+Start: (01:08.80) | End: (01:13.80)
+"She was barely breathing when I found her. The doctor said she was simply growing old."
+
+**CAMERA:**
+Start: (01:13.80) | End: (01:16.80)
+Two-shot as Juliana stops and looks up into Alexander's grim expression.
+
+**JULIANA (Chilling, Definite):**
+Start: (01:14.20) | End: (01:15.80)
+"But it wasn't age."
+
+**CAMERA:**
+Start: (01:16.80) | End: (01:19.50)
+Medium shot of Alexander staring down at her, waiting for the dark truth.
+
+**ALEXANDER (Grim, Low):**
+Start: (01:17.40) | End: (01:18.90)
+"What did you find?"
+
+**CAMERA:**
+Start: (01:19.50) | End: (01:22.50)
+Tight close-up on Juliana's trembling lips.
+
+**JULIANA (Hushed, Horrified):**
+Start: (01:20.20) | End: (01:21.80)
+"Poison."
+
+**CAMERA:**
+Start: (01:22.50) | End: (01:26.20)
+Slightly wider close-up as Juliana's eyes well with distress.
+
+**JULIANA (Sober):**
+Start: (01:23.50) | End: (01:25.00)
+"Arsenic."
+
+**ACTION:**
+Start: (01:26.20) | End: (01:30.00)
+Alexander's hand drops to his side and clenches into a white-knuckled fist, the thick scar across his hand tightening with intense restraint.
+
+**CAMERA:**
+Start: (01:26.20) | End: (01:30.20)
+Close-up on Alexander's fist clenching tightly in fury.
+
+**CAMERA:**
+Start: (01:30.20) | End: (01:37.80)
+Medium close-up of Juliana, her voice filled with mounting dread.
+
+**JULIANA (Pained, Troubled):**
+Start: (01:30.20) | End: (01:37.40)
+"Someone has been giving it to her again and again. Small amounts. Enough to make her weaker without killing her quickly."
+
+**CAMERA:**
+Start: (01:37.80) | End: (01:40.20)
+Close-up of Alexander processing the sinister calculation behind the poisoning.
+
+**CAMERA:**
+Start: (01:40.20) | End: (01:45.20)
+Two-shot as Juliana looks up at him with quiet hope.
+
+**JULIANA (Sincere, Earnest):**
+Start: (01:40.40) | End: (01:44.80)
+"I made her medicine. She was still barely conscious, but her breathing became easier."
+
+**CAMERA:**
+Start: (01:45.20) | End: (01:47.80)
+Close-up of Alexander's startled gaze.
+
+**ALEXANDER (Incredulous):**
+Start: (01:45.60) | End: (01:47.00)
+"You treated her?"
+
+**JULIANA (Firm):**
+Start: (01:47.20) | End: (01:48.00)
+"Yes."
+
+**CAMERA:**
+Start: (01:47.80) | End: (01:51.80)
+Close-up profile of the two facing each other.
+
+**ALEXANDER (Tense):**
+Start: (01:48.40) | End: (01:49.40)
+"Alone?"
+
+**JULIANA (Soft):**
+Start: (01:49.80) | End: (01:51.20)
+"With Prudence."
+
+**CAMERA:**
+Start: (01:51.80) | End: (01:54.80)
+Close-up of Alexander, his brow furrowed with deep protective worry.
+
+**ALEXANDER (Anxious):**
+Start: (01:52.20) | End: (01:54.40)
+"Will you be going there again?"
+
+**CAMERA:**
+Start: (01:54.80) | End: (01:57.50)
+Close-up of Juliana, her eyes filled with resolute purpose.
+
+**JULIANA (Determined):**
+Start: (01:55.20) | End: (01:56.80)
+"I have to."
+
+**ACTION:**
+Start: (01:57.50) | End: (02:01.00)
+Juliana places her gentle hand against Alexander's broad chest, trying to soothe his rising anger.
+
+**CAMERA:**
+Start: (01:57.50) | End: (02:01.50)
+Two-shot of Juliana leaning in, her hand resting over Alexander's coat.
+
+**JULIANA (Pleading, Defiant):**
+Start: (01:57.50) | End: (02:00.20)
+"She is still sick. I cannot leave her there."
+
+**ACTION:**
+Start: (02:01.00) | End: (02:05.00)
+Alexander takes both of her hands into his own, gripping them tightly.
+
+**CAMERA:**
+Start: (02:01.50) | End: (02:05.50)
+Medium two-shot of Alexander holding Juliana's hands in the dusky woods.
+
+**CAMERA:**
+Start: (02:05.50) | End: (02:08.00)
+Close-up of Juliana looking up into his darkened face with questioning concern.
+
+**JULIANA (Gentle, Perplexed):**
+Start: (02:05.80) | End: (02:07.50)
+"Alexander... why are you so angry?"
+
+**CAMERA:**
+Start: (02:08.00) | End: (02:14.50)
+Close-up of Alexander speaking through clenched teeth, barely containing his protective fury.
+
+**ALEXANDER (Fierce, Reproachful):**
+Start: (02:08.20) | End: (02:13.80)
+"Because you were standing inside a house where someone is poisoning a woman... and you never told me."
+
+**CAMERA:**
+Start: (02:14.50) | End: (02:17.20)
+Medium shot of Juliana looking down sheepishly before raising her eyes.
+
+**JULIANA (Vulnerable):**
+Start: (02:15.00) | End: (02:17.00)
+"I knew you would worry."
+
+**CAMERA:**
+Start: (02:17.20) | End: (02:22.00)
+Tight close-up of Alexander, his voice trembling with terrified passion.
+
+**ALEXANDER (Furious, Tormented):**
+Start: (02:17.40) | End: (02:22.40)
+"Worry? They struck you. They could have killed you."
+
+**CAMERA:**
+Start: (02:22.00) | End: (02:25.00)
+Two-shot as Juliana looks up into his eyes, holding firm.
+
+**JULIANA (Defiant, Soothing):**
+Start: (02:23.20) | End: (02:24.60)
+"But they didn't."
+
+**CAMERA:**
+Start: (02:25.00) | End: (02:28.50)
+Close-up of their clasped hands, panning up to Alexander's tormented gaze.
+
+**ALEXANDER (Grim, Fearful):**
+Start: (02:25.20) | End: (02:26.40)
+"This time."
+
+**JULIANA (Sincere, Steadfast):**
+Start: (02:27.00) | End: (02:28.80)
+"I am being careful."
+
+**CAMERA:**
+Start: (02:28.50) | End: (02:32.00)
+Two-shot as Juliana looks at him earnestly.
+
+**JULIANA (Resolute):**
+Start: (02:29.00) | End: (02:31.20)
+"I cannot abandon her."
+
+**ACTION:**
+Start: (02:31.20) | End: (02:34.00)
+Alexander closes his eyes for a brief, agonizing second, exhaling deeply as he yields to her unshakeable conviction.
+
+**CAMERA:**
+Start: (02:32.00) | End: (02:36.50)
+Close-up of Alexander opening his piercing eyes, resignation and steadfast devotion washing over his features.
+
+**ALEXANDER (Resigned, Steely):**
+Start: (02:33.80) | End: (02:36.20)
+"Then tell me everything."
+
+**CAMERA:**
+Start: (02:36.50) | End: (02:43.00)
+Medium two-shot as Alexander holds her gaze in the twilight shadows.
+
+**ALEXANDER (Low, Uncompromising):**
+Start: (02:37.40) | End: (02:39.20)
+"Everything you saw."
+
+**ACTION:**
+Start: (02:42.50) | End: (02:48.00)
+Alexander turns, falling into step beside Juliana. Together, side by side, they begin their quiet walk down the darkening forest path into the twilight.
+
+**CAMERA:**
+Start: (02:43.00) | End: (02:48.00)
+Wide tracking shot from behind Alexander and Juliana as their silhouettes disappear into the shadowy, mist-veiled forest as emotional strings swell to a resolving chord.
+
+--- SCRIPT END ---

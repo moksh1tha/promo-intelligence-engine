@@ -1,0 +1,19 @@
+[
+ {"id": "R01", "note": "Stranger fights off guards, then kneels and proposes", "segments": [{"episode": 3, "start": "00:58.30", "end": "01:25.50"}, {"episode": 3, "start": "01:59.80", "end": "02:25.75"}]},
+ {"id": "R02", "note": "Duchess recognises the ring of her lost son; doors burst open", "segments": [{"episode": 26, "start": "01:30.20", "end": "01:55.50"}, {"episode": 27, "start": "00:17.20", "end": "00:31.40"}, {"episode": 27, "start": "00:44.50", "end": "00:51.50"}]},
+ {"id": "R03", "note": "Arrest, then Clarissa's thorn-briar ultimatum", "segments": [{"episode": 12, "start": "00:00.50", "end": "00:13.90"}, {"episode": 12, "start": "00:44.00", "end": "01:27.21"}]},
+ {"id": "R04", "note": "Wedding interrupted by an explosion", "segments": [{"episode": 41, "start": "00:01.80", "end": "00:20.00"}, {"episode": 41, "start": "00:54.80", "end": "01:00.50"}, {"episode": 41, "start": "01:18.00", "end": "01:33.50"}]},
+ {"id": "R05", "note": "Hot iron in the dungeon: 'Burn it.'", "segments": [{"episode": 31, "start": "02:11.00", "end": "02:35.20"}, {"episode": 32, "start": "00:16.20", "end": "00:36.20"}, {"episode": 32, "start": "02:26.60", "end": "02:34.38"}]},
+ {"id": "R06", "note": "'You're the Duke?' then the marriage is declared invalid", "segments": [{"episode": 45, "start": "00:17.10", "end": "00:27.40"}, {"episode": 45, "start": "01:11.20", "end": "01:57.20"}]},
+ {"id": "R07", "note": "Jilted at the altar for her sister", "segments": [{"episode": 1, "start": "00:33.80", "end": "01:30.80"}]},
+ {"id": "R08", "note": "'Beggar's wife' insult, then a spy bows: 'Your Grace'", "segments": [{"episode": 5, "start": "01:31.50", "end": "01:40.80"}, {"episode": 19, "start": "00:43.00", "end": "01:28.90"}]},
+ {"id": "R09", "note": "Wife condemned to die after the usurpers' wedding", "segments": [{"episode": 36, "start": "02:12.20", "end": "02:43.00"}, {"episode": 36, "start": "03:09.50", "end": "03:20.75"}]},
+ {"id": "R10", "note": "Framed with a planted pocket watch", "segments": [{"episode": 11, "start": "00:16.80", "end": "00:51.00"}, {"episode": 11, "start": "01:31.00", "end": "01:46.60"}]},
+ {"id": "R11", "note": "Thugs wreck her garden; husband arrives", "segments": [{"episode": 15, "start": "00:44.80", "end": "01:26.00"}]},
+ {"id": "R12", "note": "Crawling bare-handed through thorns", "segments": [{"episode": 13, "start": "00:45.80", "end": "01:36.40"}]},
+ {"id": "R13", "note": "Priest's affair witnessed by a maid", "segments": [{"episode": 50, "start": "00:01.80", "end": "00:11.20"}, {"episode": 50, "start": "00:16.80", "end": "00:35.00"}, {"episode": 50, "start": "01:10.80", "end": "01:18.60"}]},
+ {"id": "R14", "note": "Catherine pleads with Alexander: 'Her?!'", "segments": [{"episode": 44, "start": "00:25.20", "end": "01:10.40"}]},
+ {"id": "R15", "note": "Arsenic discovered; someone at the door", "segments": [{"episode": 23, "start": "01:10.50", "end": "01:28.00"}, {"episode": 23, "start": "01:52.20", "end": "02:11.20"}]},
+ {"id": "R16", "note": "Runs back into the fire for her mother's ledger", "segments": [{"episode": 18, "start": "00:56.20", "end": "01:30.00"}, {"episode": 18, "start": "02:51.80", "end": "03:06.50"}]},
+ {"id": "R17", "note": "Maid coerced into false witchcraft testimony", "segments": [{"episode": 33, "start": "01:01.20", "end": "01:20.50"}, {"episode": 33, "start": "02:04.50", "end": "02:36.00"}]}
+]

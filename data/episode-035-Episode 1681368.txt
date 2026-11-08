@@ -1,0 +1,316 @@
+EPISODE NUMBER: Episode 35
+EPISODE LOGLINE: Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.
+CONTINUITY NOTES: While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. STONE CORRIDOR - NIGHT
+Scene start: 00:00.00
+Scene end: 00:15.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.20)
+Medium tracking shot following an elderly hooded woman clutching an iron lantern as she stumbles anxiously through a damp subterranean stone tunnel.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:05.20)
+Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear.
+
+**ALEXANDER'S MOTHER (Determined, Breathless):**
+Start: (00:05.50) | End: (00:08.50)
+"I will not die in that house."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:12.80)
+Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall.
+
+**ACTION:**
+Start: (00:09.50) | End: (00:12.80)
+She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.
+
+**SOUND FX:**
+Start: (00:11.20) | End: (00:13.00)
+Heavy stone grating and metallic latch clanging as the lock releases.
+
+**ACTION:**
+Start: (00:13.00) | End: (00:15.50)
+The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside.
+
+SCENE 02
+Scene heading: EXT. SNOWY FOREST / CABIN - NIGHT
+Scene start: 00:15.50
+Scene end: 00:27.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:15.50) | End: (00:19.50)
+Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees.
+
+**ACTION:**
+Start: (00:15.50) | End: (00:19.50)
+Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow.
+
+**SOUND FX:**
+Start: (00:16.00) | End: (00:19.50)
+Howling winter wind and crunching of footsteps in deep snow.
+
+**CAMERA:**
+Start: (00:19.50) | End: (00:24.00)
+Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold.
+
+**ALEXANDER'S MOTHER (Whispering, Weary):**
+Start: (00:21.00) | End: (00:23.00)
+"This must be the place."
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:27.50)
+Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open.
+
+**SOUND FX:**
+Start: (00:24.80) | End: (00:27.00)
+Creak of cold wooden hinges opening.
+
+SCENE 03
+Scene heading: INT. SECLUDED CABIN - CONTINUOUS
+Scene start: 00:27.50
+Scene end: 02:37.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:27.50) | End: (00:30.80)
+Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light.
+
+**ACTION:**
+Start: (00:28.50) | End: (00:30.80)
+Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm.
+
+**CAMERA:**
+Start: (00:30.80) | End: (00:33.80)
+Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock.
+
+**CAMERA:**
+Start: (00:33.80) | End: (00:36.50)
+Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes.
+
+**CAMERA:**
+Start: (00:36.50) | End: (00:40.50)
+Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks.
+
+**ALEXANDER'S MOTHER (Sobbing, Stunned):**
+Start: (00:37.00) | End: (00:40.00)
+"Alexander!"
+
+**CAMERA:**
+Start: (00:40.50) | End: (00:44.20)
+Close-up on Alexander as his hard expression crumbles into utter astonishment.
+
+**ALEXANDER (Breathless, In Disbelief):**
+Start: (00:42.50) | End: (00:44.20)
+"Mother?"
+
+**ACTION:**
+Start: (00:44.20) | End: (00:47.50)
+She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest.
+
+**ALEXANDER'S MOTHER (Weeping, Overwhelmed):**
+Start: (00:45.50) | End: (00:48.00)
+"You're alive."
+
+**ALEXANDER (Gentle, Choked Up):**
+Start: (00:48.00) | End: (00:49.80)
+"Mother."
+
+**ACTION:**
+Start: (00:50.00) | End: (00:55.50)
+She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief.
+
+**ALEXANDER'S MOTHER (Tearful, Heartbroken):**
+Start: (00:52.50) | End: (00:55.00)
+"I buried you."
+
+**ALEXANDER (Soft, Somber):**
+Start: (00:56.50) | End: (00:58.00)
+"I know."
+
+**ALEXANDER'S MOTHER (Anguished, Accusing):**
+Start: (00:59.50) | End: (01:06.00)
+"They told me you died. They told me your entire regiment was destroyed."
+
+**CAMERA:**
+Start: (01:06.50) | End: (01:11.00)
+Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories.
+
+**ALEXANDER (Dark, Resigned):**
+Start: (01:08.50) | End: (01:10.80)
+"Most of them were."
+
+**ALEXANDER'S MOTHER (Searching, Desperate):**
+Start: (01:11.50) | End: (01:14.00)
+"Then how did you survive?"
+
+**CAMERA:**
+Start: (01:14.20) | End: (01:18.00)
+Side profile of Alexander as his eyes look into the distance, haunted by the past.
+
+**ALEXANDER (Grim, Quiet):**
+Start: (01:15.00) | End: (01:17.50)
+"I wasn't supposed to."
+
+**ACTION:**
+Start: (01:18.00) | End: (01:22.50)
+Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern.
+
+**ALEXANDER (Solemn):**
+Start: (01:19.00) | End: (01:23.00)
+"Three years ago, I was sent to the Iberian front."
+
+**CAMERA:**
+Start: (01:23.00) | End: (01:27.00)
+Close-up of Alexander's weathered face looking down pensively as he recounts the mission.
+
+**ALEXANDER (Steady, Focused):**
+Start: (01:23.00) | End: (01:29.00)
+"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies."
+
+**ACTION:**
+Start: (01:27.00) | End: (01:29.80)
+Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid.
+
+**CAMERA:**
+Start: (01:29.80) | End: (01:32.00)
+Close-up on his mother, gasping with wide, horrified eyes.
+
+**ALEXANDER'S MOTHER (Shocked):**
+Start: (01:29.80) | End: (01:31.50)
+"A traitor?"
+
+**ALEXANDER (Cold, Firm):**
+Start: (01:32.00) | End: (01:33.20)
+"Yes."
+
+**CAMERA:**
+Start: (01:33.50) | End: (01:37.50)
+Medium shot framing both of them across the wooden table bathed in amber lantern glow.
+
+**ALEXANDER (Grave):**
+Start: (01:34.50) | End: (01:37.00)
+"We were close to finding him."
+
+**ALEXANDER (Hardened):**
+Start: (01:38.50) | End: (01:41.00)
+"Then came the ambush."
+
+**CAMERA:**
+Start: (01:41.20) | End: (01:44.20)
+Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles.
+
+**ALEXANDER (Bitter, Painful):**
+Start: (01:41.50) | End: (01:44.20)
+"My men were slaughtered."
+
+**CAMERA:**
+Start: (01:44.20) | End: (01:46.50)
+Close-up of his mother clutching at her throat, tears glistening in her eyes.
+
+**ALEXANDER'S MOTHER (Trembling, Anxious):**
+Start: (01:44.50) | End: (01:46.00)
+"And you?"
+
+**ALEXANDER (Hollow):**
+Start: (01:47.00) | End: (01:50.00)
+"I was shot. Left for dead."
+
+**CAMERA:**
+Start: (01:50.00) | End: (01:53.50)
+Medium shot of his mother placing both hands on the table, leaning forward in disbelief.
+
+**ALEXANDER'S MOTHER (Pleading, Astonished):**
+Start: (01:51.00) | End: (01:53.00)
+"How did you escape?"
+
+**CAMERA:**
+Start: (01:53.50) | End: (01:58.00)
+Close-up on Alexander, his eyes dark with the harrowing memory.
+
+**ALEXANDER (Somber, Low):**
+Start: (01:54.00) | End: (01:58.00)
+"I crawled away from the battlefield, half dead, alone."
+
+**ALEXANDER (Continuing):**
+Start: (01:58.20) | End: (02:02.00)
+"I survived because the men who came looking for me believed I was already dead."
+
+**CAMERA:**
+Start: (02:02.00) | End: (02:05.50)
+Close-up on his mother as her expression shifts to profound bewilderment and outrage.
+
+**ALEXANDER'S MOTHER (Aghast, Stunned):**
+Start: (02:02.00) | End: (02:05.50)
+"Then why did they never tell us?"
+
+**CAMERA:**
+Start: (02:05.50) | End: (02:09.50)
+Close-up on Alexander's intense, piercing gaze.
+
+**ALEXANDER (Ominous, Deliberate):**
+Start: (02:06.00) | End: (02:09.50)
+"Because someone wanted you to believe I was dead."
+
+**ALEXANDER'S MOTHER (Breathless):**
+Start: (02:09.50) | End: (02:10.50)
+"Who?"
+
+**ACTION:**
+Start: (02:10.50) | End: (02:14.00)
+Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside.
+
+**ALEXANDER (Brooding):**
+Start: (02:11.00) | End: (02:14.00)
+"I spent three years trying to find out."
+
+**ACTION:**
+Start: (02:14.00) | End: (02:16.80)
+Alexander abruptly pushes away from the window, storming back toward the table with burning rage.
+
+**ALEXANDER (Fierce, Resolute):**
+Start: (02:14.00) | End: (02:17.00)
+"The ambush was not an accident."
+
+**ACTION:**
+Start: (02:17.00) | End: (02:24.00)
+He leans heavily over the wooden table, looming close as his fury boils over.
+
+**ALEXANDER (Vehement, Enraged):**
+Start: (02:17.00) | End: (02:20.50)
+"Someone ordered my men to die."
+
+**ALEXANDER (Darkly Intimating):**
+Start: (02:21.00) | End: (02:24.00)
+"Someone wanted me erased."
+
+**ALEXANDER'S MOTHER (Gasping, Terrified):**
+Start: (02:24.00) | End: (02:25.00)
+"Who?"
+
+**CAMERA:**
+Start: (02:25.00) | End: (02:30.50)
+Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill.
+
+**ALEXANDER (Deadly, Chilling):**
+Start: (02:25.50) | End: (02:30.00)
+"The men behind it... are the same men ruling Ashwood now."
+
+**CAMERA:**
+Start: (02:30.50) | End: (02:37.50)
+Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades.
+
+**SOUND FX:**
+Start: (02:30.80) | End: (02:37.50)
+A sudden, ominous orchestral crescendo swells dramatically into silence.
+
+--- SCRIPT END ---

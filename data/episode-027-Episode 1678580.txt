@@ -1,0 +1,394 @@
+EPISODE NUMBER: Episode 27
+EPISODE LOGLINE: The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.
+CONTINUITY NOTES: Picks up immediately from Episode 26's cliffhanger where the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her origin.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT
+Scene start: 00:00.00
+Scene end: 02:30.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:02.10)
+Tight close-up of the Dowager Duchess's aged, trembling hands clutching Juliana's hand, examining the worn metal band on her finger.
+
+**DOWAGER DUCHESS (Shaken, Breathless):**
+Start: (00:01.30) | End: (00:03.20)
+"This ring..."
+
+**CAMERA:**
+Start: (00:02.10) | End: (00:05.80)
+Low-angle medium close-up of the Dowager Duchess lying propped against her pillows, gripping Juliana's wrist firmly as she gazes up in desperate demand.
+
+**DOWAGER DUCHESS (Urgent, Demanding):**
+Start: (00:03.40) | End: (00:05.80)
+"Look at me, girl. Who gave this to you?"
+
+**CAMERA:**
+Start: (00:05.80) | End: (00:09.40)
+Medium shot of Juliana in her maid's apron, startled and anxious as she answers.
+
+**JULIANA (Hesitant, Sincere):**
+Start: (00:06.40) | End: (00:09.30)
+"My husband. He gave it to me when we wed."
+
+**CAMERA:**
+Start: (00:09.40) | End: (00:13.20)
+Low angle on the Dowager Duchess, her eyes burning with intensity.
+
+**DOWAGER DUCHESS (Incredulous, Intense):**
+Start: (00:09.70) | End: (00:12.80)
+"He is no commoner. What does he do?"
+
+**CAMERA:**
+Start: (00:13.20) | End: (00:16.80)
+Close-up of Juliana, trying to keep her composure.
+
+**JULIANA (Earnest, Defending):**
+Start: (00:13.40) | End: (00:16.40)
+"He is a soldier. A veteran from the Peninsula."
+
+**CAMERA:**
+Start: (00:16.80) | End: (00:21.60)
+Medium two-shot as the Duchess leans forward slightly, staring at the ring between their joined hands.
+
+**DOWAGER DUCHESS (Trembling, Revelatory):**
+Start: (00:17.20) | End: (00:21.20)
+"That is no ordinary band. It bears the Ashbourne crest."
+
+**CAMERA:**
+Start: (00:21.60) | End: (00:26.10)
+Close-up on Juliana, shaking her head in disbelief and growing confusion.
+
+**JULIANA (Confused, Gentle):**
+Start: (00:21.80) | End: (00:25.80)
+"No. He lives in a barn. He has nothing but his word."
+
+**CAMERA:**
+Start: (00:26.10) | End: (00:31.80)
+Low-angle shot on the Duchess, tears welling in her eyes as grief and shock overtake her.
+
+**DOWAGER DUCHESS (Emotionally Strained, Weeping):**
+Start: (00:26.60) | End: (00:31.40)
+"My lost son wore that exact ring. He went to war..."
+
+**CAMERA:**
+Start: (00:31.80) | End: (00:34.90)
+Close-up of Juliana's eyes widening in stunned revelation.
+
+**JULIANA (Shocked, Breathless):**
+Start: (00:32.10) | End: (00:34.80)
+"Your son? He told me he was only a sergeant."
+
+**CAMERA:**
+Start: (00:34.90) | End: (00:37.40)
+Side-angle medium shot of the bed, the Duchess holding onto Juliana's forearm with fierce insistence.
+
+**DOWAGER DUCHESS (Desperate, Clinging):**
+Start: (00:35.20) | End: (00:37.60)
+"My lost son wore that ring!"
+
+**CAMERA:**
+Start: (00:37.40) | End: (00:40.40)
+Close-up of Juliana looking down with compassionate concern.
+
+**DOWAGER DUCHESS (O.S.) (Pleading):**
+Start: (00:37.80) | End: (00:40.20)
+"Did your husband serve beside him?"
+
+**JULIANA (Soft, Reverent):**
+Start: (00:41.00) | End: (00:44.20)
+"He never spoke of his officers. He only spoke of survival."
+
+**CAMERA:**
+Start: (00:44.20) | End: (00:46.40)
+Close-up of the Duchess gazing up at Juliana, her voice barely a whisper.
+
+**DOWAGER DUCHESS (Hushed, Desperate):**
+Start: (00:44.50) | End: (00:46.40)
+"What is your husband's name?"
+
+**SOUND FX:**
+Start: (00:46.40) | End: (00:48.30)
+Loud, violent pounding echoes on the wooden double doors.
+
+**CAMERA:**
+Start: (00:46.50) | End: (00:48.80)
+Juliana gasps, snapping her head toward the entrance in alarm.
+
+**ACTION:**
+Start: (00:48.80) | End: (00:51.50)
+The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.
+
+**CAMERA:**
+Start: (00:48.80) | End: (00:51.50)
+Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway.
+
+**CAMERA:**
+Start: (00:51.50) | End: (00:55.60)
+Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain.
+
+**LADY CATHERINE (Sharp, Accusatory):**
+Start: (00:52.20) | End: (00:55.60)
+"What is that maid doing in Her Grace's private chamber?"
+
+**CAMERA:**
+Start: (00:55.60) | End: (00:58.60)
+Medium shot of Juliana standing stiffly beside the bed, concealing her hands.
+
+**JULIANA (Calm, Defiant):**
+Start: (00:56.80) | End: (00:58.40)
+"She needed help."
+
+**CAMERA:**
+Start: (00:58.60) | End: (01:02.00)
+Close-up of Lady Catherine narrowing her eyes with venomous suspicion.
+
+**LADY CATHERINE (Piercing, Suspicious):**
+Start: (01:00.00) | End: (01:01.80)
+"What are you hiding?"
+
+**CAMERA:**
+Start: (01:02.00) | End: (01:04.00)
+Close-up of Juliana, her chin raised.
+
+**JULIANA (Firm):**
+Start: (01:02.20) | End: (01:03.50)
+"Nothing."
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:06.50)
+Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana.
+
+**LADY CATHERINE (Demanding, Harsh):**
+Start: (01:04.80) | End: (01:06.40)
+"Show me your hand."
+
+**CAMERA:**
+Start: (01:06.50) | End: (01:10.50)
+Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves.
+
+**BLOND NOBLEMAN (Cold, Authoritative):**
+Start: (01:06.60) | End: (01:10.10)
+"Girl. Show me what you are holding."
+
+**CAMERA:**
+Start: (01:10.50) | End: (01:13.80)
+Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle.
+
+**BLOND NOBLEMAN (Skeptical):**
+Start: (01:12.60) | End: (01:13.70)
+"What is this?"
+
+**JULIANA (Steady):**
+Start: (01:13.80) | End: (01:14.80)
+"Medicine."
+
+**CAMERA:**
+Start: (01:14.80) | End: (01:17.80)
+Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff.
+
+**LADY CATHERINE (Mocking, Condescending):**
+Start: (01:15.20) | End: (01:17.80)
+"Medicine? You are a new maid."
+
+**CAMERA:**
+Start: (01:17.80) | End: (01:20.80)
+Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side.
+
+**LADY CATHERINE (Incredulous, Accusing):**
+Start: (01:18.10) | End: (01:20.50)
+"Who permitted you to give medicine to the Duchess?"
+
+**CAMERA:**
+Start: (01:20.80) | End: (01:23.00)
+Close-up of Juliana holding her ground.
+
+**JULIANA (Quiet, Resolute):**
+Start: (01:21.00) | End: (01:22.00)
+"No one."
+
+**CAMERA:**
+Start: (01:23.00) | End: (01:26.50)
+Close-up of Lady Catherine turning fiercely triumphant.
+
+**LADY CATHERINE (Spiteful, Indignant):**
+Start: (01:23.60) | End: (01:26.40)
+"Then you administered it without permission."
+
+**CAMERA:**
+Start: (01:26.50) | End: (01:28.00)
+Close-up of Juliana, her voice rising passionately.
+
+**JULIANA (Passionate, Urgent):**
+Start: (01:26.50) | End: (01:27.80)
+"Because she was dying!"
+
+**CAMERA:**
+Start: (01:28.00) | End: (01:32.80)
+Medium shot of the Blond Nobleman pacing forward with calculating malice.
+
+**BLOND NOBLEMAN (Cold, Interrogating):**
+Start: (01:28.20) | End: (01:32.40)
+"And you decided you knew better than every physician in this house?"
+
+**CAMERA:**
+Start: (01:32.80) | End: (01:35.00)
+Close-up of Juliana retorting without hesitation.
+
+**JULIANA (Fierce):**
+Start: (01:33.30) | End: (01:34.90)
+"The physicians were not saving her!"
+
+**CAMERA:**
+Start: (01:35.00) | End: (01:37.80)
+Over-the-shoulder shot past the Blond Nobleman looking toward the frail Duchess watching helplessly from the bed.
+
+**BLOND NOBLEMAN (O.S.) (Measured, Menacing):**
+Start: (01:35.30) | End: (01:37.70)
+"My aunt has been wasting away for months."
+
+**CAMERA:**
+Start: (01:37.80) | End: (01:43.60)
+Medium shot of the Blond Nobleman turning slowly back toward Juliana, building his trap.
+
+**BLOND NOBLEMAN (Smooth, Threatening):**
+Start: (01:38.80) | End: (01:43.40)
+"And now we find an unknown maid alone beside her bed..."
+
+**CAMERA:**
+Start: (01:43.60) | End: (01:47.80)
+Close-up shot of his gloved black leather finger reaching down to tap against the glass dropper bottle in Juliana's open palm.
+
+**BLOND NOBLEMAN (O.S.) (Contemptuous):**
+Start: (01:44.20) | End: (01:47.50)
+"...holding a substance no one authorized her to give."
+
+**CAMERA:**
+Start: (01:47.80) | End: (01:50.20)
+Medium close-up of Juliana raising the small bottle high for them to see.
+
+**JULIANA (Unyielding):**
+Start: (01:48.30) | End: (01:49.80)
+"It is an antidote."
+
+**CAMERA:**
+Start: (01:50.20) | End: (01:52.50)
+Close-up of Lady Catherine sneering sharply.
+
+**LADY CATHERINE (Sharp, Provocative):**
+Start: (01:50.30) | End: (01:51.80)
+"An antidote to what?"
+
+**CAMERA:**
+Start: (01:52.50) | End: (01:53.60)
+Extreme close-up of Juliana's focused eyes.
+
+**BLOND NOBLEMAN (O.S.) (Stern, Barked):**
+Start: (01:53.20) | End: (01:54.30)
+"Answer her."
+
+**CAMERA:**
+Start: (01:53.60) | End: (01:55.00)
+Close-up on the Blond Nobleman's impatient scowl.
+
+**CAMERA:**
+Start: (01:55.00) | End: (01:57.20)
+Close-up of Juliana speaking the truth clearly.
+
+**JULIANA (Unyielding, Resolute):**
+Start: (01:55.10) | End: (01:56.50)
+"Poison."
+
+**CAMERA:**
+Start: (01:57.20) | End: (02:00.00)
+Close-up on the Blond Nobleman, his expression freezing into a dark scowl.
+
+**BLOND NOBLEMAN (Whispering, Dangerous):**
+Start: (01:58.70) | End: (01:59.80)
+"Poison."
+
+**CAMERA:**
+Start: (02:00.00) | End: (02:02.80)
+Close-up of Juliana stating the grim reality.
+
+**JULIANA (Urgent):**
+Start: (02:00.40) | End: (02:02.60)
+"Someone has been poisoning Her Grace."
+
+**CAMERA:**
+Start: (02:02.80) | End: (02:04.60)
+Medium shot of Lady Catherine turning abruptly to the guard stationed by the open door, pointing with feigned outrage.
+
+**LADY CATHERINE (Shrieking, Feigning Horror):**
+Start: (02:03.10) | End: (02:04.50)
+"You hear that?!"
+
+**CAMERA:**
+Start: (02:04.60) | End: (02:08.50)
+Close-up of Lady Catherine twisting Juliana's words with malicious glee.
+
+**LADY CATHERINE (Venomous, Accusing):**
+Start: (02:04.80) | End: (02:08.40)
+"She admits she has been giving the Duchess poison in secret!"
+
+**CAMERA:**
+Start: (02:08.50) | End: (02:11.00)
+Close-up of Juliana recoiling in shock at the blatant lie.
+
+**JULIANA (Desperate, Outraged):**
+Start: (02:08.70) | End: (02:10.80)
+"That is not what I said!"
+
+**CAMERA:**
+Start: (02:11.00) | End: (02:14.00)
+Medium close-up of the Blond Nobleman raising his black-gloved hand, silencing the room.
+
+**BLOND NOBLEMAN (Authoritative, Icy):**
+Start: (02:11.20) | End: (02:12.60)
+"Enough."
+
+**CAMERA:**
+Start: (02:14.00) | End: (02:19.40)
+Medium two-shot as the Blond Nobleman steps into Juliana's personal space and plucks the glass dropper vial from her hand.
+
+**ACTION:**
+Start: (02:14.80) | End: (02:18.50)
+The Blond Nobleman takes the medicine vial from Juliana's grasp, inspecting it under the candlelight.
+
+**BLOND NOBLEMAN (Cold, Calculating):**
+Start: (02:16.20) | End: (02:19.30)
+"An unknown servant enters a restricted chamber."
+
+**CAMERA:**
+Start: (02:19.40) | End: (02:24.20)
+Tight close-up of the Blond Nobleman holding the vial beside his temple, his blue eyes cold and triumphant.
+
+**BLOND NOBLEMAN (Condemning, Vindictive):**
+Start: (02:19.60) | End: (02:23.80)
+"She secretly administers an unidentified substance to a helpless woman."
+
+**BLOND NOBLEMAN (To Guard, Stern):**
+Start: (02:24.00) | End: (02:24.90)
+"Take her."
+
+**CAMERA:**
+Start: (02:24.20) | End: (02:27.50)
+Wide shot as the armed guard storms forward, seizing Juliana roughly by both arms.
+
+**ACTION:**
+Start: (02:25.00) | End: (02:28.00)
+The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.
+
+**CAMERA:**
+Start: (02:27.50) | End: (02:29.20)
+Medium shot of Juliana being pulled backward, casting a frantic glance back toward the bedridden Duchess.
+
+**CAMERA:**
+Start: (02:29.20) | End: (02:30.50)
+Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black.
+
+--- SCRIPT END ---

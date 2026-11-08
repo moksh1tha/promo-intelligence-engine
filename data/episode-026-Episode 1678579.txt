@@ -1,0 +1,218 @@
+EPISODE NUMBER: Episode 26
+EPISODE LOGLINE: While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.
+CONTINUITY NOTES: Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. DOWAGER DUCHESS'S BEDCHAMBER – NIGHT
+Scene start: 00:00.00
+Scene end: 02:00.88
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.80)
+Wide shot framed through heavy bed curtains in a dark, candlelit bedchamber. Juliana in her maid's apron sits vigilantly beside the canopied bed where the frail Dowager Duchess lies.
+
+**ACTION:**
+Start: (00:00.00) | End: (00:05.50)
+Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.
+
+**CAMERA:**
+Start: (00:05.80) | End: (00:10.50)
+Close-up of Juliana's hands unscrewing the glass dropper from a small amber medicine bottle filled with dark medicinal liquid.
+
+**SOUND FX:**
+Start: (00:06.50) | End: (00:09.00)
+Tense, atmospheric orchestral score builds softly in the background.
+
+**CAMERA:**
+Start: (00:10.50) | End: (00:14.20)
+Close-up of the Dowager Duchess resting against pale pillows as her heavy eyelids slowly open, her gaze weak and disoriented.
+
+**ACTION:**
+Start: (00:11.00) | End: (00:14.00)
+The Dowager Duchess blinks against the dim lamplight, turning her head toward Juliana.
+
+**CAMERA:**
+Start: (00:14.20) | End: (00:20.50)
+Low-angle medium two-shot looking past Juliana's silhouette down to the Duchess in bed.
+
+**DOWAGER DUCHESS (Weak, Raspy):**
+Start: (00:14.20) | End: (00:20.20)
+"Who are you? Speak to me. I have not seen your face before."
+
+**CAMERA:**
+Start: (00:20.50) | End: (00:25.80)
+Close-up of Juliana leaning over the bed, holding the dropper bottle carefully toward the Duchess's mouth, her expression urgent yet tender.
+
+**JULIANA (Urgent, Reassuring):**
+Start: (00:20.60) | End: (00:25.40)
+"Please, Your Grace. Drink the last of this antidote. Drink it slowly."
+
+**CAMERA:**
+Start: (00:25.80) | End: (00:28.50)
+Extreme close-up of the Duchess taking drops of the dark liquid from the glass bottle onto her lips.
+
+**ACTION:**
+Start: (00:25.80) | End: (00:28.40)
+The Duchess swallows the remedy with difficulty as Juliana carefully tilts the amber bottle.
+
+**CAMERA:**
+Start: (00:28.50) | End: (00:30.80)
+Medium two-shot as Juliana withdraws the medicine bottle, standing beside the bedside lamp.
+
+**CAMERA:**
+Start: (00:30.80) | End: (00:35.80)
+Close-up of the Dowager Duchess observing Juliana with faint recognition through her exhaustion.
+
+**DOWAGER DUCHESS (Faint, Discerning):**
+Start: (00:30.80) | End: (00:35.50)
+"You... you are no common servant. You took Catherine's whip for me the other day."
+
+**CAMERA:**
+Start: (00:35.80) | End: (00:40.20)
+Close-up of Juliana, her eyes reflecting quiet resolve and pain.
+
+**JULIANA (Humble, Sincere):**
+Start: (00:36.00) | End: (00:39.80)
+"I did what I had to. It does not change my duty."
+
+**CAMERA:**
+Start: (00:40.20) | End: (00:43.20)
+Medium two-shot as Juliana leans closer to tuck the blankets securely over the Duchess.
+
+**JULIANA (Gentle, Calming):**
+Start: (00:40.30) | End: (00:43.00)
+"Rest now, Your Grace. You are safe tonight."
+
+**CAMERA:**
+Start: (00:43.20) | End: (00:47.50)
+Close-up of Juliana looking around the shadowy room, her voice dropping to a tense whisper.
+
+**JULIANA (Hushed, Tense Whisper):**
+Start: (00:43.50) | End: (00:47.00)
+"If the guards hear us, we are both dead."
+
+**CAMERA:**
+Start: (00:47.50) | End: (00:50.80)
+Static shot of the heavy carved double doors to the bedchamber, left slightly ajar with a sliver of hallway candlelight gleaming through the gap.
+
+**CAMERA:**
+Start: (00:50.80) | End: (00:55.80)
+Close-up of the Dowager Duchess lying back, processing Juliana's warning as dark realization settles into her face.
+
+**ACTION:**
+Start: (00:52.50) | End: (00:55.50)
+The Duchess clutches the blanket against her chest, her breathing quickening with dismay.
+
+**CAMERA:**
+Start: (00:55.80) | End: (01:02.50)
+Medium close-up of the Duchess looking upward toward Juliana, her voice trembling with tragic certainty.
+
+**DOWAGER DUCHESS (Trembling, Heartbroken):**
+Start: (00:56.00) | End: (01:02.00)
+"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?"
+
+**CAMERA:**
+Start: (01:02.50) | End: (01:07.00)
+Medium shot of Juliana leaning over the edge of the mattress, nodding earnestly to soothe her fears.
+
+**JULIANA (Reassuring, Steadfast):**
+Start: (01:02.60) | End: (01:06.70)
+"Yes. But the charcoal is fighting the poison. You are safe now."
+
+**CAMERA:**
+Start: (01:07.00) | End: (01:11.80)
+Close-up of the small amber dropper bottle sitting atop the polished wooden bedside table in the dim glow of the lamp.
+
+**CAMERA:**
+Start: (01:11.80) | End: (01:19.60)
+Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.
+
+**DOWAGER DUCHESS (Curious, Searching):**
+Start: (01:13.80) | End: (01:19.40)
+"Then tell me... why is a girl of such noble spirit working as a common maid?"
+
+**CAMERA:**
+Start: (01:19.60) | End: (01:26.50)
+Close-up of Juliana, her chin lifting with dignified sorrow and quiet defiance.
+
+**JULIANA (Painful, Proud):**
+Start: (01:20.00) | End: (01:25.80)
+"Because my family cast me out to rot. I have nothing left in this world but my honor."
+
+**CAMERA:**
+Start: (01:26.50) | End: (01:30.80)
+Medium tracking down Juliana's apron to her hand as she rests it against the bed linens, revealing a distinctive engraved signet ring on her finger.
+
+**ACTION:**
+Start: (01:27.00) | End: (01:30.50)
+Juliana rests her right hand against the edge of the bedcover, unwittingly placing the unique ring directly within the Duchess's line of sight.
+
+**SOUND FX:**
+Start: (01:30.20) | End: (01:32.00)
+A sharp, stunned gasp.
+
+**CAMERA:**
+Start: (01:30.80) | End: (01:35.00)
+Extreme close-up of the Dowager Duchess gasping sharply, her eyes widening in profound shock as all color drains from her face.
+
+**ACTION:**
+Start: (01:30.80) | End: (01:35.00)
+The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.
+
+**CAMERA:**
+Start: (01:35.00) | End: (01:40.00)
+Medium shot of the Duchess pushing herself up against the headboard, trembling as she stretches out her frail hand.
+
+**DOWAGER DUCHESS (Breathless, Shaken):**
+Start: (01:36.00) | End: (01:39.80)
+"Your hand... Let me see your hand."
+
+**CAMERA:**
+Start: (01:40.00) | End: (01:45.50)
+Close-up of Juliana reacting with confusion and growing concern at the elder woman's sudden frenzy.
+
+**JULIANA (Confused, Alarmed):**
+Start: (01:40.50) | End: (01:45.00)
+"Your Grace? What is wrong? You look as though you've seen a ghost."
+
+**CAMERA:**
+Start: (01:45.50) | End: (01:49.00)
+Close-up shot of the Duchess's withered, shaking hand reaching across the blanket toward Juliana's arm.
+
+**ACTION:**
+Start: (01:46.00) | End: (01:49.00)
+The Duchess reaches outward with trembling fingers, grasping frantically for Juliana.
+
+**SOUND FX:**
+Start: (01:48.80) | End: (01:50.00)
+A sudden sharp rustle of fabric as her fingers snap tight.
+
+**CAMERA:**
+Start: (01:49.00) | End: (01:50.80)
+Tight shot of the Duchess's frail hand clamping down with fierce, unexpected strength onto Juliana's dark sleeve.
+
+**DOWAGER DUCHESS (Stern, Desperate):**
+Start: (01:49.20) | End: (01:50.60)
+"Do not move!"
+
+**CAMERA:**
+Start: (01:50.80) | End: (01:55.80)
+Close-up of the Dowager Duchess looking up at Juliana with overwhelming urgency and tears brimming in her wide eyes.
+
+**DOWAGER DUCHESS (Intense, Demanding):**
+Start: (01:51.00) | End: (01:55.50)
+"Where... where... Where did you get this ring? Speak to me!"
+
+**CAMERA:**
+Start: (01:55.80) | End: (01:59.50)
+Medium close-up of Juliana frozen in shock, her breath catching as the Duchess's desperate words echo in the silence of the room.
+
+**CAMERA:**
+Start: (01:59.50) | End: (02:00.88)
+Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black.
+
+--- SCRIPT END ---

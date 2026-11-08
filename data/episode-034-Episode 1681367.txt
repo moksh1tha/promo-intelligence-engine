@@ -1,0 +1,478 @@
+EPISODE NUMBER: Episode 34
+EPISODE LOGLINE: Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.
+CONTINUITY NOTES: Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. COURTROOM – DAY
+Scene start: 00:00.00
+Scene end: 03:10.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:02.80)
+High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left.
+
+**JUDGE (Booming, Authoritative):**
+Start: (00:01.20) | End: (00:07.80)
+"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning."
+
+**CAMERA:**
+Start: (00:02.80) | End: (00:07.80)
+Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents.
+
+**CAMERA:**
+Start: (00:07.80) | End: (00:13.10)
+Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text.
+
+**SOUND FX:**
+Start: (00:09.00) | End: (00:11.20)
+[A firm, hollow tap of a finger striking the parchment]
+
+**JUDGE (O.S.) (Inquisitive, Severe):**
+Start: (00:09.10) | End: (00:12.60)
+"Do you deny possessing this book?"
+
+**CAMERA:**
+Start: (00:13.10) | End: (00:15.50)
+Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute.
+
+**LADY JULIANA (Calm, Unflinching):**
+Start: (00:13.80) | End: (00:14.80)
+"No."
+
+**CAMERA:**
+Start: (00:15.50) | End: (00:19.40)
+Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically.
+
+**JUDGE (Stern, Accusatory):**
+Start: (00:15.60) | End: (00:19.20)
+"Do you deny using its remedies?"
+
+**CAMERA:**
+Start: (00:19.40) | End: (00:23.80)
+Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance.
+
+**LADY JULIANA (Firm):**
+Start: (00:20.80) | End: (00:21.80)
+"No."
+
+**CAMERA:**
+Start: (00:23.80) | End: (00:27.40)
+Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction.
+
+**CAMERA:**
+Start: (00:27.40) | End: (00:31.70)
+Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction.
+
+**JUDGE (Hard, Pressing):**
+Start: (00:27.50) | End: (00:31.20)
+"Then you admit to practicing forbidden arts."
+
+**CAMERA:**
+Start: (00:31.70) | End: (00:35.30)
+Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous.
+
+**LADY JULIANA (Proud, Dignified):**
+Start: (00:33.20) | End: (00:35.10)
+"I admit to healing the sick."
+
+**ACTION:**
+Start: (00:35.30) | End: (00:37.40)
+The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.
+
+**JUDGE (Furious, Shouting):**
+Start: (00:35.40) | End: (00:36.60)
+"Silence!"
+
+**SOUND FX:**
+Start: (00:35.80) | End: (00:37.00)
+[Sharp, echoing crack of the gavel slamming onto wood]
+
+**CAMERA:**
+Start: (00:35.80) | End: (00:37.40)
+Medium shot of the Judge slamming the gavel down on his bench.
+
+**CAMERA:**
+Start: (00:37.40) | End: (00:42.50)
+Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand.
+
+**JUDGE (Commanding):**
+Start: (00:37.50) | End: (00:41.20)
+"Prudence. You served beside the accused?"
+
+**ACTION:**
+Start: (00:41.00) | End: (00:43.00)
+Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron.
+
+**CAMERA:**
+Start: (00:42.50) | End: (00:44.80)
+Medium close-up of Prudence looking up with tears streaming down her pale face.
+
+**PRUDENCE (Trembling, Tearful):**
+Start: (00:43.20) | End: (00:44.60)
+"Yes, Your Honor."
+
+**CAMERA:**
+Start: (00:44.80) | End: (00:49.00)
+Medium close-up of the Judge leaning forward with folded hands.
+
+**JUDGE (Probing, Formal):**
+Start: (00:45.30) | End: (00:48.80)
+"Did you witness Lady Juliana perform these treatments?"
+
+**CAMERA:**
+Start: (00:49.00) | End: (00:51.50)
+Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock.
+
+**LADY JULIANA (Softly, Urgent):**
+Start: (00:49.10) | End: (00:50.50)
+"Tell the truth."
+
+**CAMERA:**
+Start: (00:51.50) | End: (00:54.80)
+Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her.
+
+**PRUDENCE (Sobbing, Heartbroken):**
+Start: (00:53.00) | End: (00:54.20)
+"Yes."
+
+**CAMERA:**
+Start: (00:54.80) | End: (00:57.60)
+Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure.
+
+**CAMERA:**
+Start: (00:57.60) | End: (01:00.80)
+Medium profile shot of the Judge recording notes in the open court ledger with a feather quill.
+
+**JUDGE (Measured, Stern):**
+Start: (00:58.20) | End: (01:00.10)
+"What did you see?"
+
+**CAMERA:**
+Start: (01:00.80) | End: (01:04.60)
+Medium close-up of Prudence clutching both hands to her chest in anguish.
+
+**PRUDENCE (Choked with Tears):**
+Start: (01:01.30) | End: (01:04.40)
+"She used herbs... and her mother's book."
+
+**CAMERA:**
+Start: (01:04.60) | End: (01:06.80)
+Medium shot of the Judge leaning back slightly, pointing his hand accusingly.
+
+**JUDGE (Pressing, Sharp):**
+Start: (01:04.80) | End: (01:06.70)
+"Did she draw strange markings?"
+
+**CAMERA:**
+Start: (01:06.80) | End: (01:11.80)
+Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching.
+
+**PRUDENCE (Faltering, Desperate):**
+Start: (01:08.20) | End: (01:11.70)
+"She... placed herbs around my brother's bed."
+
+**CAMERA:**
+Start: (01:11.80) | End: (01:15.80)
+Medium shot of the Judge pointing an outstretched index finger with piercing intensity.
+
+**JUDGE (Accusatory, Forceful):**
+Start: (01:12.10) | End: (01:15.50)
+"And did she speak words you could not understand?"
+
+**CAMERA:**
+Start: (01:15.80) | End: (01:21.00)
+Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse.
+
+**PRUDENCE (Weeping, Shaken):**
+Start: (01:18.80) | End: (01:20.50)
+"Yes."
+
+**CAMERA:**
+Start: (01:21.00) | End: (01:25.20)
+Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge.
+
+**LORD (Triumphant, Smug):**
+Start: (01:21.30) | End: (01:24.90)
+"Your Honor... the witness has confirmed the ritual."
+
+**ACTION:**
+Start: (01:25.00) | End: (01:27.20)
+Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury.
+
+**CAMERA:**
+Start: (01:25.20) | End: (01:27.40)
+Low-angle medium shot of Lady Juliana gripping the railing, leaning forward.
+
+**LADY JULIANA (Passionate, Indignant):**
+Start: (01:25.20) | End: (01:27.20)
+"It was not a ritual!"
+
+**ACTION:**
+Start: (01:27.20) | End: (01:30.20)
+The Judge repeatedly hammers his gavel down onto the desk, roaring over her.
+
+**CAMERA:**
+Start: (01:27.40) | End: (01:30.50)
+Medium shot of the Judge striking the wooden block twice in rapid succession.
+
+**SOUND FX:**
+Start: (01:27.80) | End: (01:29.20)
+[Violent, resonant double bang of the wooden gavel]
+
+**JUDGE (Bellowing):**
+Start: (01:27.90) | End: (01:30.00)
+"You will speak when addressed!"
+
+**CAMERA:**
+Start: (01:30.50) | End: (01:33.80)
+Medium shot of the Lord extending his palm toward the gallery with theatrical composure.
+
+**LORD (Calm, Poisonous):**
+Start: (01:31.00) | End: (01:33.20)
+"We have further witnesses."
+
+**CAMERA:**
+Start: (01:33.80) | End: (01:38.20)
+Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands.
+
+**TOWNSMAN (Nervous, Fearful):**
+Start: (01:34.20) | End: (01:38.00)
+"My wife took one of Lady Juliana's mixtures..."
+
+**CAMERA:**
+Start: (01:38.20) | End: (01:39.50)
+Close-up of the Judge glaring down expectantly.
+
+**JUDGE (Sharp):**
+Start: (01:38.30) | End: (01:39.10)
+"And?"
+
+**CAMERA:**
+Start: (01:39.50) | End: (01:42.10)
+Close-up of the townsman's face tightening with coached distress.
+
+**TOWNSMAN (Agitated):**
+Start: (01:39.80) | End: (01:41.80)
+"She became violently ill."
+
+**CAMERA:**
+Start: (01:42.10) | End: (01:47.30)
+Medium shot among the spectators as an elderly peasant woman stands up from the wooden bench, pointing an accusatory finger across the courtroom.
+
+**OLD WOMAN (Shrill, Accusatory):**
+Start: (01:42.30) | End: (01:47.00)
+"My daughter drank one of her herbal preparations! She was sick for three days!"
+
+**CAMERA:**
+Start: (01:47.30) | End: (01:50.00)
+Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye.
+
+**LORD (Mocking, Smug):**
+Start: (01:48.00) | End: (01:49.80)
+"She calls it healing."
+
+**ACTION:**
+Start: (01:50.00) | End: (01:52.80)
+The Lord turns dramatically to face the entire assembly, gesturing toward the spectators.
+
+**CAMERA:**
+Start: (01:50.00) | End: (01:52.80)
+Medium shot of the Lord addressing the courtroom.
+
+**LORD (Resonant, Vindicative):**
+Start: (01:50.10) | End: (01:52.60)
+"The people call it poisoning!"
+
+**CAMERA:**
+Start: (01:52.80) | End: (01:55.20)
+Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity.
+
+**LADY JULIANA (Incisive, Defiant):**
+Start: (01:53.20) | End: (01:55.00)
+"What were their illnesses?"
+
+**CAMERA:**
+Start: (01:55.20) | End: (01:57.20)
+Low-angle close-up of the Lord looking down arrogantly over his shoulder.
+
+**LORD (Dismissive):**
+Start: (01:55.30) | End: (01:56.50)
+"Irrelevant."
+
+**CAMERA:**
+Start: (01:57.20) | End: (01:59.80)
+Close-up of Lady Juliana gritting her teeth in fierce defiance.
+
+**LADY JULIANA (Fierce):**
+Start: (01:57.40) | End: (01:59.60)
+"It is not irrelevant!"
+
+**CAMERA:**
+Start: (01:59.80) | End: (02:03.40)
+Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall.
+
+**LADY JULIANA (Clear, Unyielding):**
+Start: (01:59.90) | End: (02:03.20)
+"Herbs are not magic! They are medicine!"
+
+**CAMERA:**
+Start: (02:03.40) | End: (02:06.80)
+Medium shot of the Judge sitting with steepled fingers upon his high bench.
+
+**JUDGE (Coldly Inquisitive):**
+Start: (02:03.60) | End: (02:06.40)
+"You admit you administered them?"
+
+**CAMERA:**
+Start: (02:06.80) | End: (02:09.10)
+Close-up of Lady Juliana looking straight forward.
+
+**LADY JULIANA (Direct):**
+Start: (02:07.20) | End: (02:08.20)
+"Yes."
+
+**CAMERA:**
+Start: (02:09.10) | End: (02:11.80)
+Medium shot of the Judge gesturing with an open hand.
+
+**JUDGE (Challenging):**
+Start: (02:09.30) | End: (02:11.60)
+"Without the approval of a licensed physician?"
+
+**CAMERA:**
+Start: (02:11.80) | End: (02:14.60)
+Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice.
+
+**LADY JULIANA (Steely, Earnest):**
+Start: (02:12.10) | End: (02:14.40)
+"There was no physician willing to help them."
+
+**CAMERA:**
+Start: (02:14.60) | End: (02:19.20)
+Close-up of Lady Juliana's steady gaze.
+
+**LADY JULIANA (Calm, Resolute):**
+Start: (02:16.20) | End: (02:18.40)
+"So I helped them."
+
+**CAMERA:**
+Start: (02:19.20) | End: (02:22.20)
+Medium close-up of the Lord smiling cynically as he turns back toward the magistrate.
+
+**LORD (Derisive):**
+Start: (02:19.60) | End: (02:22.00)
+"Even now, she refuses to repent."
+
+**CAMERA:**
+Start: (02:22.20) | End: (02:27.40)
+Low-angle medium shot of the Judge holding his hand over the open law book.
+
+**JUDGE (Grave, Stern):**
+Start: (02:22.40) | End: (02:27.00)
+"Lady Juliana, if you wish to save yourself, renounce these practices."
+
+**CAMERA:**
+Start: (02:27.40) | End: (02:28.90)
+Close-up of the burned grimoire resting on the green leather surface of the court table.
+
+**CAMERA:**
+Start: (02:28.90) | End: (02:31.20)
+Close-up of Lady Juliana lifting her chin without an ounce of hesitation.
+
+**LADY JULIANA (Unyielding):**
+Start: (02:29.80) | End: (02:30.80)
+"No."
+
+**CAMERA:**
+Start: (02:31.20) | End: (02:34.80)
+Medium shot of the Judge lowering his brow with dark finality.
+
+**JUDGE (Ominous, Warning):**
+Start: (02:31.80) | End: (02:33.80)
+"Think carefully."
+
+**CAMERA:**
+Start: (02:34.80) | End: (02:36.80)
+Low-angle close-up of Lady Juliana looking skyward through the arched court windows.
+
+**LADY JULIANA (Firm, Resolute):**
+Start: (02:35.20) | End: (02:36.40)
+"I have."
+
+**CAMERA:**
+Start: (02:36.80) | End: (02:42.00)
+Medium shot of the Judge pointing an outstretched finger across the bench, his tone hardening into lethal severity.
+
+**JUDGE (Severe, Imposing):**
+Start: (02:37.00) | End: (02:41.80)
+"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?"
+
+**CAMERA:**
+Start: (02:42.00) | End: (02:43.60)
+Close-up of Lady Juliana unflinchingly accepting her fate.
+
+**LADY JULIANA (Proud, Fearless):**
+Start: (02:42.10) | End: (02:43.50)
+"Then let it be."
+
+**CAMERA:**
+Start: (02:43.60) | End: (02:46.80)
+Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears.
+
+**ACTION:**
+Start: (02:44.00) | End: (02:46.80)
+Prudence buries her face in her stained white apron, shuddering with grief.
+
+**CAMERA:**
+Start: (02:46.80) | End: (02:54.40)
+Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority.
+
+**LADY JULIANA (Passionate, Defiant):**
+Start: (02:47.00) | End: (02:53.60)
+"Do not be afraid. I will not call healing evil just because powerful people have decided to fear it."
+
+**CAMERA:**
+Start: (02:54.40) | End: (02:56.50)
+Medium close-up profile of the Lord, his smirk instantly freezing into an irritated, malevolent scowl.
+
+**ACTION:**
+Start: (02:56.50) | End: (02:58.20)
+The Judge furiously smashes his gavel down upon the sound block with a deafening crack.
+
+**CAMERA:**
+Start: (02:56.50) | End: (02:58.20)
+Close-up of the Judge slamming the wooden gavel down.
+
+**SOUND FX:**
+Start: (02:56.60) | End: (02:57.60)
+[Violent, resonant smash of the wooden gavel]
+
+**JUDGE (Thunderous):**
+Start: (02:57.80) | End: (02:59.40)
+"Enough!"
+
+**ACTION:**
+Start: (02:59.50) | End: (03:04.50)
+The Judge rises to his full height behind the bench, towering over the silent court.
+
+**CAMERA:**
+Start: (02:59.50) | End: (03:04.50)
+Low-angle medium shot looking up at the imposing Judge as he stands formally to deliver the judgment.
+
+**JUDGE (Booming, Solemn):**
+Start: (03:01.00) | End: (03:04.20)
+"Lady Juliana Ashcroft..."
+
+**CAMERA:**
+Start: (03:04.50) | End: (03:10.00)
+Over-the-shoulder shot from behind Lady Juliana in the prisoner's dock looking toward the Judge, who solemnly raises his right hand to pronounce the final sentence as the heavy silence hangs over the courtroom.
+
+**ACTION:**
+Start: (03:05.00) | End: (03:10.00)
+The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.
+
+--- SCRIPT END ---

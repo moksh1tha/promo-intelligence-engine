@@ -1,0 +1,2 @@
+# Only needed for --provider anthropic. Free providers (gemini, groq, openrouter, ollama) need no packages.
+anthropic>=0.40

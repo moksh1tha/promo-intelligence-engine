@@ -1,0 +1,162 @@
+EPISODE NUMBER: Episode 42
+EPISODE LOGLINE: Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.
+CONTINUITY NOTES: Directly follows Episode 41 where Alexander's forces breached the cathedral entrance; Alexander now steps through the ruins, halting the wedding and unmasking Rupert's illegitimate reign.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CATHEDRAL – CONTINUOUS
+Scene start: 00:00.00
+Scene end: 01:17.80
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:10.50)
+Low-angle shot through drifting smoke and rubble across the stone floor, tilting up as polished boots step over splintered wood, revealing an imposing nobleman in a gold-embroidered navy coat.
+
+**ACTION:**
+Start: (00:01.00) | End: (00:10.50)
+Alexander strides deliberately through the pulverized cathedral doorway. Dressed in the regal ducal coat with gold braided cuffs and a lion crest, his scarred face is set with cold, unyielding authority.
+
+**BLOND NOBLEMAN (Shocked, Trembling):**
+Start: (00:11.20) | End: (00:12.60)
+"Who are you?"
+
+**ALEXANDER (Low, Resonant):**
+Start: (00:12.80) | End: (00:14.60)
+"You already know."
+
+**CAMERA:**
+Start: (00:14.60) | End: (00:16.60)
+Close-up on Juliana, her manacled hands clutching at her smock as tears well in her eyes.
+
+**JULIANA (Breathless, Tearful Whisper):**
+Start: (00:15.00) | End: (00:16.40)
+"Alexander..."
+
+**CAMERA:**
+Start: (00:16.60) | End: (00:17.90)
+Close-up on Alexander, his gaze softening momentarily toward her.
+
+**ALEXANDER (Gentle, Reassuring):**
+Start: (00:16.80) | End: (00:17.90)
+"Juliana."
+
+**CAMERA:**
+Start: (00:17.90) | End: (00:21.50)
+Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.
+
+**BLOND NOBLEMAN (Furious, Hysterical):**
+Start: (00:18.00) | End: (00:21.20)
+"Guards! Arrest this imposter!"
+
+**CAMERA:**
+Start: (00:21.50) | End: (00:23.40)
+Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.
+
+**ROYAL GUARD (Stoic, Defiant):**
+Start: (00:22.00) | End: (00:23.40)
+"We will not."
+
+**CAMERA:**
+Start: (00:23.40) | End: (00:26.50)
+Close-up on Rupert, veins bulging in his neck as his composure shatters.
+
+**BLOND NOBLEMAN (Screaming, Outraged):**
+Start: (00:23.50) | End: (00:25.20)
+"I said arrest him!"
+
+**BLOND NOBLEMAN (Desperate, Unhinged):**
+Start: (00:25.50) | End: (00:26.50)
+"Why?!"
+
+**CAMERA:**
+Start: (00:26.50) | End: (00:28.80)
+Close-up on the Royal Guard holding his upright blade with unwavering conviction.
+
+**ROYAL GUARD (Firm, Reverent):**
+Start: (00:26.70) | End: (00:28.80)
+"Because we know who he is."
+
+**CAMERA:**
+Start: (00:28.80) | End: (00:30.40)
+Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.
+
+**CATHERINE (Trembling, Apprehensive):**
+Start: (00:29.00) | End: (00:30.30)
+"Rupert..."
+
+**CAMERA:**
+Start: (00:30.40) | End: (00:33.80)
+Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.
+
+**BLOND NOBLEMAN (Denial, Shaken):**
+Start: (00:30.50) | End: (00:33.80)
+"You cannot be him. Alexander died!"
+
+**CAMERA:**
+Start: (00:33.80) | End: (00:39.90)
+Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.
+
+**ALEXANDER (Cold, Commanding):**
+Start: (00:34.00) | End: (00:39.80)
+"And yet, here I stand. That is the lie you built your life upon."
+
+**CAMERA:**
+Start: (00:39.90) | End: (00:44.80)
+Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.
+
+**ALEXANDER'S MOTHER (Choked with Tears):**
+Start: (00:40.20) | End: (00:42.50)
+"Alexander..."
+
+**ACTION:**
+Start: (00:44.80) | End: (00:48.00)
+Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.
+
+**ALEXANDER (Soft, Reverent):**
+Start: (00:48.00) | End: (00:49.00)
+"Mother."
+
+**ACTION:**
+Start: (00:49.00) | End: (00:54.00)
+His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.
+
+**ALEXANDER'S MOTHER (Overcome, Loving):**
+Start: (00:49.20) | End: (00:53.80)
+"Look at you... my beautiful boy."
+
+**CAMERA:**
+Start: (00:54.00) | End: (01:03.50)
+Medium two-shot framed down the ruined nave between Alexander and his mother.
+
+**ALEXANDER'S MOTHER (Tearful, Proud):**
+Start: (00:54.00) | End: (01:01.80)
+"I saw you again... but seeing you like this... I see my son as he was always meant to be."
+
+**ALEXANDER (Tender, Resolute):**
+Start: (01:02.00) | End: (01:04.00)
+"I have come home, Mother."
+
+**ACTION:**
+Start: (01:04.00) | End: (01:12.50)
+Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.
+
+**ALEXANDER'S MOTHER (Ringing, Authoritative):**
+Start: (01:04.20) | End: (01:12.40)
+"Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!"
+
+**CAMERA:**
+Start: (01:12.50) | End: (01:13.80)
+Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.
+
+**CAMERA:**
+Start: (01:13.80) | End: (01:17.80)
+Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.
+
+**ALEXANDER (Grim, Vengeful):**
+Start: (01:13.80) | End: (01:17.50)
+"And now, Rupert... we settle what you stole."
+
+--- SCRIPT END ---

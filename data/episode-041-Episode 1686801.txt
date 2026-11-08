@@ -1,0 +1,226 @@
+EPISODE NUMBER: Episode 41
+EPISODE LOGLINE: At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.
+CONTINUITY NOTES: Follows Episode 40 where Rupert and Catherine met at the altar; Catherine halts the vows to stage a public humiliation of Juliana, unaware that Alexander's forces are already detonating the cathedral gates.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CATHEDRAL – CONTINUOUS
+Scene start: 00:00.00
+Scene end: 01:36.09
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:01.80)
+Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the altar where Rupert, Catherine, and the Priest stand.
+
+**ACTION:**
+Start: (00:01.80) | End: (00:04.50)
+Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation.
+
+**CATHERINE (Imperious, Commanding):**
+Start: (00:01.80) | End: (00:02.80)
+"Wait."
+
+**CAMERA:**
+Start: (00:04.50) | End: (00:08.50)
+Medium shot tracking Catherine as she pivots toward the seated aristocracy, her veil floating gracefully behind her.
+
+**CATHERINE (Haughty, Loud):**
+Start: (00:04.90) | End: (00:08.20)
+"Before I become Duchess of Ashburgh..."
+
+**CAMERA:**
+Start: (00:08.50) | End: (00:13.00)
+Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer.
+
+**CATHERINE (Cruel, Resonant):**
+Start: (00:08.50) | End: (00:12.70)
+"...I want everyone to see what happens to a woman who dares defy this family."
+
+**CAMERA:**
+Start: (00:13.00) | End: (00:15.50)
+Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution.
+
+**BLOND NOBLEMAN (Subdued, Inquiring):**
+Start: (00:13.20) | End: (00:14.00)
+"Catherine..."
+
+**CATHERINE (Callous, Projecting):**
+Start: (00:14.00) | End: (00:15.30)
+"Bring her in."
+
+**SOUND FX:**
+Start: (00:15.50) | End: (00:17.50)
+Heavy wooden creak of the cathedral double doors swinging open.
+
+**CAMERA:**
+Start: (00:15.50) | End: (00:20.00)
+Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight.
+
+**ACTION:**
+Start: (00:17.50) | End: (00:20.00)
+Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms.
+
+**CAMERA:**
+Start: (00:20.00) | End: (00:22.80)
+Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles.
+
+**CAMERA:**
+Start: (00:22.80) | End: (00:26.00)
+Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state.
+
+**CAMERA:**
+Start: (00:26.00) | End: (00:28.80)
+Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction.
+
+**CATHERINE (Smug, Taunting):**
+Start: (00:26.80) | End: (00:28.40)
+"There she is."
+
+**CAMERA:**
+Start: (00:28.80) | End: (00:30.00)
+Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar.
+
+**CAMERA:**
+Start: (00:30.00) | End: (00:34.00)
+Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan.
+
+**NOBLEWOMAN (Gleeful, Whispering):**
+Start: (00:30.50) | End: (00:31.60)
+"Look at her."
+
+**NOBLEMAN (Mocking, Chuckling):**
+Start: (00:31.70) | End: (00:33.80)
+"She actually came back to the chapel."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:36.80)
+Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.
+
+**NOBLEWOMAN (Scornful, Smug):**
+Start: (00:34.80) | End: (00:36.80)
+"Not as a bride this time."
+
+**CAMERA:**
+Start: (00:36.80) | End: (00:39.80)
+Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement.
+
+**CAMERA:**
+Start: (00:39.80) | End: (00:43.80)
+Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers.
+
+**CATHERINE (O.S.) (Derisive, Projecting):**
+Start: (00:41.00) | End: (00:44.20)
+"Lady Juliana Ashcroft. Look around."
+
+**CAMERA:**
+Start: (00:43.80) | End: (00:48.50)
+High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral.
+
+**CATHERINE (V.O.) (Mocking, Resonant):**
+Start: (00:45.00) | End: (00:48.00)
+"This is the world you thought you belonged to."
+
+**CAMERA:**
+Start: (00:48.50) | End: (00:52.80)
+Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress.
+
+**CATHERINE (Spiteful, Boastful):**
+Start: (00:48.60) | End: (00:52.40)
+"And now they can all see what you truly are."
+
+**CAMERA:**
+Start: (00:52.80) | End: (00:57.80)
+Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze.
+
+**ACTION:**
+Start: (00:54.80) | End: (00:57.50)
+Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.
+
+**CAMERA:**
+Start: (00:57.80) | End: (01:00.80)
+Tight close-up on Juliana's bruised, unshaken face.
+
+**JULIANA (Defiant, Unbowed):**
+Start: (00:58.00) | End: (01:00.50)
+"You needed an entire chapel to feel powerful over one chained woman?"
+
+**CAMERA:**
+Start: (01:00.80) | End: (01:04.00)
+Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains.
+
+**CATHERINE (O.S.) (Murmured, Cold):**
+Start: (01:01.00) | End: (01:03.50)
+"Still arrogant. Still standing."
+
+**CAMERA:**
+Start: (01:04.00) | End: (01:08.50)
+Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her.
+
+**CATHERINE (Dismissive):**
+Start: (01:04.50) | End: (01:05.40)
+"Come."
+
+**CAMERA:**
+Start: (01:08.50) | End: (01:10.50)
+Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion.
+
+**CAMERA:**
+Start: (01:10.50) | End: (01:15.00)
+Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate.
+
+**CATHERINE (Intimate, Ambitious):**
+Start: (01:10.50) | End: (01:14.80)
+"Soon, there will be nothing left between us and the Ashburgh title."
+
+**CAMERA:**
+Start: (01:15.00) | End: (01:17.50)
+Close-up of Rupert's face breaking into a calculating, ambitious grin.
+
+**BLOND NOBLEMAN (Quietly Triumphant):**
+Start: (01:15.80) | End: (01:17.00)
+"Nothing."
+
+**CAMERA:**
+Start: (01:17.50) | End: (01:20.50)
+Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine.
+
+**PRIEST (Solemn, Polite):**
+Start: (01:18.00) | End: (01:19.30)
+"Shall we?"
+
+**CAMERA:**
+Start: (01:20.50) | End: (01:21.80)
+Wide shot centered down the aisle toward the massive closed entrance doors.
+
+**SOUND FX:**
+Start: (01:21.00) | End: (01:25.50)
+Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.
+
+**ACTION:**
+Start: (01:21.80) | End: (01:24.00)
+A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.
+
+**CAMERA:**
+Start: (01:21.80) | End: (01:24.50)
+Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down.
+
+**CAMERA:**
+Start: (01:24.50) | End: (01:28.50)
+Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.
+
+**CAMERA:**
+Start: (01:28.50) | End: (01:32.00)
+Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her.
+
+**ACTION:**
+Start: (01:29.00) | End: (01:33.50)
+Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light.
+
+**CAMERA:**
+Start: (01:32.00) | End: (01:36.09)
+Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.
+
+--- SCRIPT END ---
